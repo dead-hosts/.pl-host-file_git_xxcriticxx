@@ -1,6 +1,7 @@
 {
     "autosave_minutes": "10",
     "commit_autosave_message": "Test of .pl-host-file",
+    "currently_under_test": "0",
     "days_until_next_test": "2",
     "last_test": "1515643191",
     "list_name": ".pl-host-file.list",
