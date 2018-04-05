@@ -1,13 +1,16 @@
 {
-    "arguments": [],
+    "arguments": [
+        "--commit-autosave-message \"[Autosave] Test of .pl-host-file\"",
+        "--commit-results-message \"[Results] Test of .pl-host-file\""
+    ],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
     "commit_autosave_message": "Test of .pl-host-file",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1522040159",
+    "last_test": "1522964466",
     "list_name": ".pl-host-file.list",
     "name": ".pl-host-file",
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "stable": "0",
-    "clean_original": "1",
-    "clean_list_file": "clean.list"
+    "stable": "0"
 }
