@@ -1,6 +1,8 @@
 {
     "/home/travis/build/dead-hosts/.pl-host-file_git_xxcriticxx/.pl-host-file.list": {
-        "1524953665": [
+        "1525040088": [
+            "adserwer.intercon.pl",
+            "adspiro.pl",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
             "ghm_bulgaria.hit.gemius.pl",
@@ -10,8 +12,6 @@
             "spanel.gem.pl"
         ],
         "to_test": [
-            "adserwer.intercon.pl",
-            "adspiro.pl",
             "ad2.pl.mediainter.net"
         ]
     }
