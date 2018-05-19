@@ -5,10 +5,12 @@
     "commit_autosave_message": "Test of .pl-host-file",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526633603",
+    "last_test": "1526748602",
     "list_name": ".pl-host-file.list",
     "name": ".pl-host-file",
+    "ping": [
+        "xxcriticxx"
+    ],
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "stable": "0",
-    "ping": ["xxcriticxx"]
+    "stable": "0"
 }
