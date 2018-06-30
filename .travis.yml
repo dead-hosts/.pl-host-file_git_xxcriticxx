@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: NLAB+w0yqDHAGtCfe1OucUG6hACqJENPCRQE7Y/IAz0JTTvAuqBlWUELwxsULAuahQhRi/PvHg3I7lIOWAI2oDVxX8M2lrJZXdaD9IEgzskGD0bSnipJvTMchyfHCIDW4ZDqyZwvahPbFx9kffcRc5vKpFAWM8C+vomUQqXbyoxMUclnjDgjdQTLweAVMXdT1GRT6BAaOoyoBX+LOTnNvqVEpf+ElsPpWzAcRjYBp/xPozcr/YNakTI+dnac6jG8LONk1zxJuZMHS6nUpTbqUvkMgiUb69UhFtSDa+38ZfFZkJgEaucBXw4yxZva+LuOphVN2845lnPFYuaEzECgAqNx/73l/Iqe/t216sKbrANlPg51g+A5oyw3S0cOwiakgoMBymNXvDU6NE+GX98WBO48S30SL9VNn0nAGnMJN5AjyvgnPodWNeEFLfs0Na/oVBOAsgYNh/M1J58WwzQ8BCoozDzOQFgV+QOykQfrmWH7RqPc/5QqekdVzEJpyq2HpWKrvD8XCtLvG9UGBE006tsgANTaT0oD0+0U4k1MaACv5duaMuMoEV429r2zvYaUAQUxVFplsX2dj2rfSLki2GKx0pZj0csRtrt1RBRr9BXWGoal+jMEFHyOKU/0C51YHRCNxsPbkVLm6Y0f2UkKlwazQ9HL5r+Sj37ZKg6kyXI=
+    - secure: GO6o0eprM7v4yONefm2e1xX+WAK54PqMevMb0nXwVW1d+g+lkKsE7rEkyCBlrSWV5K1mGE1ineFJp/ypiksx69H5EBSaFRtjtlirxsDBhG7B0tpeRfsEgXT0lA16uPIJk7LxgPfm1gM94ogW+2WDE/sDtLuMz1yj/oJtR9w5u6EewLUyJHu3ynDcJecZHYQplikDNJ3I3IutLtt4Rzky4b+Ua3IXS0q2w6zUNrOjFR+WmW31DaUjQW0SldDIYUpzayAIQyoH3VdtNVt9qcBaw9K3J8g/2AtNNlLGXM6V0ZhoTBcPQUltNn3xaoTRhCMSmTeLTomoNwlrZoFocZn7WDzoIwQXVM/tb7qVnieWESqegicEo3CcTKBgrpz73RaSKsVofb4oLKD1TtzDA9dr1XFNui7O8y75s6oOA7lmNK9jhC4/pXF3mIIBILRkLQunDXKUpog8XKT4S4vHQP1pgl6oAO0XiZ4I5BaKCkLckOnTK0pu+lOfGNQNs+qCfcd5jcWfuHbVYwSphWWtMn6U8aP8rs3uSng3dtevp3rEnCEEM8LC8fzGgNUA4pNfLVgxfFl46ENkh3vCFYFpU9mLTWYaCMqM0VJhIvagcPau3y38g9ixfUX4HVxOLzdu458uxLLQYKG3yzsO/Vu82w8V/jrFM4a6W8v0RTqm9ZxQeO0=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/.pl-host-file_git_xxcriticxx
@@ -21,7 +21,7 @@ cache:
 sudo: required
 
 install:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - pip3 install pyfunceble-dev
   - sudo apt-get -y install dos2unix
 
 script:
