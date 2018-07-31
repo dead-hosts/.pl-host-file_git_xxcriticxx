@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 30 Jul 19:07:25 UTC 2018 
+# Date of generation: Tue 31 Jul 22:07:53 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code  
 1.googlenews.xorg.pl                                                                                 ACTIVE      NSLOOKUP   
@@ -35,7 +35,7 @@ adfiles.o2.pl.sds.o2.pl                                                         
 adhr.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP   
 adidm.idmnet.pl                                                                                      ACTIVE      NSLOOKUP   
 adidm07.idmnet.pl                                                                                    ACTIVE      NSLOOKUP   
-adkontekst.pl                                                                                        ACTIVE      WHOIS      
+adkontekst.pl                                                                                        ACTIVE      NSLOOKUP   
 adlt.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP   
 adlv.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP   
 adnet.hit.gemius.pl                                                                                  ACTIVE      NSLOOKUP   
@@ -66,7 +66,7 @@ ads.open.pl                                                                     
 ads2.ekologia.pl                                                                                     ACTIVE      NSLOOKUP   
 ads2.rp.pl                                                                                           ACTIVE      NSLOOKUP   
 adsearch.adkontekst.pl                                                                               ACTIVE      NSLOOKUP   
-adsearch.pl                                                                                          ACTIVE      WHOIS      
+adsearch.pl                                                                                          ACTIVE      NSLOOKUP   
 adsearch.wp.pl                                                                                       ACTIVE      NSLOOKUP   
 adserver.gadu-gadu.pl                                                                                ACTIVE      NSLOOKUP   
 adserver.home.pl                                                                                     ACTIVE      NSLOOKUP   
@@ -93,7 +93,7 @@ advice.hit.gemius.pl                                                            
 advicead.hit.gemius.pl                                                                               ACTIVE      NSLOOKUP   
 adview.pl                                                                                            ACTIVE      NSLOOKUP   
 afi.adocean.pl                                                                                       ACTIVE      NSLOOKUP   
-afilo.pl                                                                                             ACTIVE      WHOIS      
+afilo.pl                                                                                             ACTIVE      NSLOOKUP   
 afilv.adocean.pl                                                                                     ACTIVE      NSLOOKUP   
 allegro.hit.gemius.pl                                                                                ACTIVE      NSLOOKUP   
 analytics.gazeta.pl                                                                                  ACTIVE      NSLOOKUP   
