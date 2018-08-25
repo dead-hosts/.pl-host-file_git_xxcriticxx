@@ -8,10 +8,9 @@
             "intrack.pl",
             "openx.xenium.pl",
             "s1.delfilt.adocean.pl",
-            "spanel.gem.pl"
-        ],
-        "to_test": [
+            "spanel.gem.pl",
             "ad2.pl.mediainter.net"
-        ]
+        ],
+        "to_test": []
     }
 }
