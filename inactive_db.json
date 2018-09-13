@@ -6,12 +6,11 @@
             "adspiro.pl",
             "c.allegrostatic.pl",
             "code.new.smartcontext.pl",
-            "intrack.pl"
-        ],
-        "to_test": [
+            "intrack.pl",
             "openx.xenium.pl",
             "s1.delfilt.adocean.pl",
             "spanel.gem.pl"
-        ]
+        ],
+        "to_test": []
     }
 }
