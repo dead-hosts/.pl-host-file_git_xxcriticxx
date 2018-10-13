@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Thu 11 Oct 23:10:49 UTC 2018 
+# Date of generation: Sat 13 Oct 23:10:52 UTC 2018 
 
 0.0.0.0 15minadlt.hit.gemius.pl
 0.0.0.0 15minlt.adocean.pl
@@ -71,7 +71,6 @@
 0.0.0.0 ads.novem.pl
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.open.pl
-0.0.0.0 adspiro.pl
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 ad.stat.4u.pl
 0.0.0.0 adstat.4u.pl
@@ -382,5 +381,18 @@
 0.0.0.0 tvn2.adocean.pl
 0.0.0.0 tvn.adocean.pl
 0.0.0.0 tvn.hit.gemius.pl
+0.0.0.0 ua.adocean.pl
+0.0.0.0 ua.cnt.gemius.pl
+0.0.0.0 ua.hit.gemius.pl
+0.0.0.0 vbadbg.hit.gemius.pl
+0.0.0.0 vbbg.adocean.pl
+0.0.0.0 webgroundadbg.hit.gemius.pl
+0.0.0.0 webgroundbg.adocean.pl
+0.0.0.0 webhosting-ads.home.pl
+0.0.0.0 wp.hit.gemius.pl
+0.0.0.0 www.adserver.home.pl
+0.0.0.0 www.mystat.pl
+0.0.0.0 wykop.hit.gemius.pl
+0.0.0.0 xed.pl
 0.0.0.0 x.interia.pl
 0.0.0.0 xstatic.nk-net.pl
