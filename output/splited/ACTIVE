@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 27 Oct 23:10:10 UTC 2018 
+# Date of generation: Sun 28 Oct 23:10:19 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 15minadlt.hit.gemius.pl                                                                              ACTIVE      NSLOOKUP  
@@ -26,7 +26,7 @@ ad.hosting.pl                                                                   
 adhr.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 adidm07.idmnet.pl                                                                                    ACTIVE      NSLOOKUP  
 adidm.idmnet.pl                                                                                      ACTIVE      NSLOOKUP  
-adkontekst.pl                                                                                        ACTIVE      NSLOOKUP  
+adkontekst.pl                                                                                        ACTIVE      WHOIS     
 adlt.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 adlv.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 adnetgalt.hit.gemius.pl                                                                              ACTIVE      NSLOOKUP  
@@ -74,10 +74,10 @@ ads.o2.pl                                                                       
 ads.open.pl                                                                                          ACTIVE      NSLOOKUP  
 adspiro.pl                                                                                           ACTIVE      WHOIS     
 adsrv.lua.pl                                                                                         ACTIVE      NSLOOKUP  
-ad.stat.4u.pl                                                                                        ACTIVE      NSLOOKUP  
 adstat.4u.pl                                                                                         ACTIVE      NSLOOKUP  
-adtaily.pl                                                                                           ACTIVE      NSLOOKUP  
-adtext.pl                                                                                            ACTIVE      NSLOOKUP  
+ad.stat.4u.pl                                                                                        ACTIVE      NSLOOKUP  
+adtaily.pl                                                                                           ACTIVE      WHOIS     
+adtext.pl                                                                                            ACTIVE      WHOIS     
 adtotal.pl                                                                                           ACTIVE      WHOIS     
 adtrack1.pl                                                                                          ACTIVE      WHOIS     
 adv.adview.pl                                                                                        ACTIVE      NSLOOKUP  
@@ -85,7 +85,7 @@ adv.dot.wp.pl                                                                   
 adv.gazeta.pl                                                                                        ACTIVE      NSLOOKUP  
 advicead.hit.gemius.pl                                                                               ACTIVE      NSLOOKUP  
 advice.hit.gemius.pl                                                                                 ACTIVE      NSLOOKUP  
-adview.pl                                                                                            ACTIVE      NSLOOKUP  
+adview.pl                                                                                            ACTIVE      WHOIS     
 adv.wp.pl                                                                                            ACTIVE      NSLOOKUP  
 ad.yoyo.pl                                                                                           ACTIVE      NSLOOKUP  
 afi.adocean.pl                                                                                       ACTIVE      NSLOOKUP  
@@ -93,13 +93,13 @@ afilo.pl                                                                        
 afilv.adocean.pl                                                                                     ACTIVE      NSLOOKUP  
 allegro.hit.gemius.pl                                                                                ACTIVE      NSLOOKUP  
 analytics.gazeta.pl                                                                                  ACTIVE      NSLOOKUP  
-ankieta-online.pl                                                                                    ACTIVE      NSLOOKUP  
+ankieta-online.pl                                                                                    ACTIVE      WHOIS     
 aolt.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 aolv.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 apolloadlv.hit.gemius.pl                                                                             ACTIVE      NSLOOKUP  
 app2.salesmanago.pl                                                                                  ACTIVE      NSLOOKUP  
 arbo.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
-arbomedia.pl                                                                                         ACTIVE      NSLOOKUP  
+arbomedia.pl                                                                                         ACTIVE      WHOIS     
 aripaadee.hit.gemius.pl                                                                              ACTIVE      NSLOOKUP  
 aripaee.adocean.pl                                                                                   ACTIVE      NSLOOKUP  
 avt.hit.gemius.pl                                                                                    ACTIVE      NSLOOKUP  
@@ -122,7 +122,7 @@ bg.hit.gemius.pl                                                                
 bi.adview.pl                                                                                         ACTIVE      NSLOOKUP  
 blitzadbg.hit.gemius.pl                                                                              ACTIVE      NSLOOKUP  
 blitzbg.adocean.pl                                                                                   ACTIVE      NSLOOKUP  
-blogvertising.pl                                                                                     ACTIVE      NSLOOKUP  
+blogvertising.pl                                                                                     ACTIVE      WHOIS     
 boksy.dir.onet.pl                                                                                    ACTIVE      NSLOOKUP  
 boksy.onet.pl                                                                                        ACTIVE      NSLOOKUP  
 by.adocean.pl                                                                                        ACTIVE      NSLOOKUP  
@@ -208,8 +208,8 @@ gders.hit.gemius.pl                                                             
 gdesk.hit.gemius.pl                                                                                  ACTIVE      NSLOOKUP  
 gdetr.hit.gemius.pl                                                                                  ACTIVE      NSLOOKUP  
 gemadhu.hit.gemius.pl                                                                                ACTIVE      NSLOOKUP  
-gemius.pl                                                                                            ACTIVE      NSLOOKUP  
-gem.pl                                                                                               ACTIVE      NSLOOKUP  
+gemius.pl                                                                                            ACTIVE      WHOIS     
+gem.pl                                                                                               ACTIVE      WHOIS     
 generalmediaadhu.hit.gemius.pl                                                                       ACTIVE      NSLOOKUP  
 geo.interia.pl                                                                                       ACTIVE      NSLOOKUP  
 gg.adocean.pl                                                                                        ACTIVE      NSLOOKUP  
@@ -223,7 +223,7 @@ ghmtr.hit.gemius.pl                                                             
 go2.hit.gemius.pl                                                                                    ACTIVE      NSLOOKUP  
 goldbach.hit.gemius.pl                                                                               ACTIVE      NSLOOKUP  
 go.pl.bbelements.com                                                                                 ACTIVE      NSLOOKUP  
-gostats.pl                                                                                           ACTIVE      NSLOOKUP  
+gostats.pl                                                                                           ACTIVE      WHOIS     
 gratkapl.adocean.pl                                                                                  ACTIVE      NSLOOKUP  
 gspro.adocean.pl                                                                                     ACTIVE      NSLOOKUP  
 gspro.hit.gemius.pl                                                                                  ACTIVE      NSLOOKUP  
@@ -260,7 +260,7 @@ keepaneyeadmk.hit.gemius.pl                                                     
 keepaneyemk.adocean.pl                                                                               ACTIVE      NSLOOKUP  
 kon.hit.gemius.pl                                                                                    ACTIVE      NSLOOKUP  
 kropka.onet.pl                                                                                       ACTIVE      NSLOOKUP  
-leadmy.pl                                                                                            ACTIVE      NSLOOKUP  
+leadmy.pl                                                                                            ACTIVE      WHOIS     
 lrytasadlt.hit.gemius.pl                                                                             ACTIVE      NSLOOKUP  
 lrytaslt.adocean.pl                                                                                  ACTIVE      NSLOOKUP  
 ls.hit.gemius.pl                                                                                     ACTIVE      NSLOOKUP  
@@ -276,7 +276,6 @@ megapanel.gem.pl                                                                
 metagaua.hit.gemius.pl                                                                               ACTIVE      NSLOOKUP  
 mklik.gazeta.pl                                                                                      ACTIVE      NSLOOKUP  
 mobi.yanosik.pl                                                                                      ACTIVE      NSLOOKUP  
-m.pl.pornzone.tv                                                                                     ACTIVE      NSLOOKUP  
 mreg.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
 my.adocean.pl                                                                                        ACTIVE      NSLOOKUP  
 myao.adocean.pl                                                                                      ACTIVE      NSLOOKUP  
@@ -304,7 +303,7 @@ partner.pobieraczek.pl                                                          
 partner-ts.groupon.pl                                                                                ACTIVE      NSLOOKUP  
 partner.wapacz.pl                                                                                    ACTIVE      NSLOOKUP  
 partner.wapster.pl                                                                                   ACTIVE      NSLOOKUP  
-playlink.pl                                                                                          ACTIVE      NSLOOKUP  
+playlink.pl                                                                                          ACTIVE      WHOIS     
 pl.spanel.gem.pl                                                                                     ACTIVE      NSLOOKUP  
 pracuj.adocean.pl                                                                                    ACTIVE      NSLOOKUP  
 pracuj.hit.gemius.pl                                                                                 ACTIVE      NSLOOKUP  
@@ -395,6 +394,6 @@ wp.hit.gemius.pl                                                                
 www.adserver.home.pl                                                                                 ACTIVE      NSLOOKUP  
 www.mystat.pl                                                                                        ACTIVE      NSLOOKUP  
 wykop.hit.gemius.pl                                                                                  ACTIVE      NSLOOKUP  
-xed.pl                                                                                               ACTIVE      NSLOOKUP  
+xed.pl                                                                                               ACTIVE      WHOIS     
 x.interia.pl                                                                                         ACTIVE      NSLOOKUP  
 xstatic.nk-net.pl                                                                                    ACTIVE      NSLOOKUP  
