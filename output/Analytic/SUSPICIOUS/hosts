@@ -5,7 +5,6 @@
 0.0.0.0 15minlt.adocean.pl
 0.0.0.0 24ratownik.hit.gemius.pl
 0.0.0.0 activeby.hit.gemius.pl
-0.0.0.0 ad2.pl
 0.0.0.0 adactiongapl.hit.gemius.pl
 0.0.0.0 ad.adocean.pl
 0.0.0.0 ad.adview.pl
@@ -25,7 +24,6 @@
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 adidm07.idmnet.pl
 0.0.0.0 adidm.idmnet.pl
-0.0.0.0 adkontekst.pl
 0.0.0.0 adlt.hit.gemius.pl
 0.0.0.0 adlv.hit.gemius.pl
 0.0.0.0 adnetgalt.hit.gemius.pl
@@ -51,7 +49,6 @@
 0.0.0.0 ads.clickad.com.pl
 0.0.0.0 ads.comperia.pl
 0.0.0.0 adsearch.adkontekst.pl
-0.0.0.0 adsearch.pl
 0.0.0.0 adsearch.wp.pl
 0.0.0.0 ads.edipresse.pl
 0.0.0.0 adserver2.atman.pl
@@ -59,7 +56,6 @@
 0.0.0.0 adserver.home.pl
 0.0.0.0 adserver.magazyn.pl
 0.0.0.0 adserver.o2.pl
-0.0.0.0 adserver.pl
 0.0.0.0 adserver.portal.pl
 0.0.0.0 adserver.swiatobrazu.pl
 0.0.0.0 adserver.yanosik.pl
@@ -73,30 +69,22 @@
 0.0.0.0 adsrv.lua.pl
 0.0.0.0 adstat.4u.pl
 0.0.0.0 ad.stat.4u.pl
-0.0.0.0 adtaily.pl
-0.0.0.0 adtext.pl
-0.0.0.0 adtotal.pl
-0.0.0.0 adtrack1.pl
 0.0.0.0 adv.adview.pl
 0.0.0.0 adv.dot.wp.pl
 0.0.0.0 adv.gazeta.pl
 0.0.0.0 advicead.hit.gemius.pl
 0.0.0.0 advice.hit.gemius.pl
-0.0.0.0 adview.pl
 0.0.0.0 adv.wp.pl
 0.0.0.0 ad.yoyo.pl
 0.0.0.0 afi.adocean.pl
-0.0.0.0 afilo.pl
 0.0.0.0 afilv.adocean.pl
 0.0.0.0 allegro.hit.gemius.pl
 0.0.0.0 analytics.gazeta.pl
-0.0.0.0 ankieta-online.pl
 0.0.0.0 aolt.hit.gemius.pl
 0.0.0.0 aolv.hit.gemius.pl
 0.0.0.0 apolloadlv.hit.gemius.pl
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 arbo.hit.gemius.pl
-0.0.0.0 arbomedia.pl
 0.0.0.0 aripaadee.hit.gemius.pl
 0.0.0.0 aripaee.adocean.pl
 0.0.0.0 avt.hit.gemius.pl
@@ -119,7 +107,6 @@
 0.0.0.0 bi.adview.pl
 0.0.0.0 blitzadbg.hit.gemius.pl
 0.0.0.0 blitzbg.adocean.pl
-0.0.0.0 blogvertising.pl
 0.0.0.0 boksy.dir.onet.pl
 0.0.0.0 boksy.onet.pl
 0.0.0.0 by.adocean.pl
@@ -131,7 +118,6 @@
 0.0.0.0 centrumcz.hit.gemius.pl
 0.0.0.0 chip.pl.intellitxt.com
 0.0.0.0 clickad.eo.pl
-0.0.0.0 contextad.pl
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 corm.hit.gemius.pl
 0.0.0.0 counter.gemius.pl
@@ -205,8 +191,6 @@
 0.0.0.0 gdesk.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
 0.0.0.0 gemadhu.hit.gemius.pl
-0.0.0.0 gemius.pl
-0.0.0.0 gem.pl
 0.0.0.0 generalmediaadhu.hit.gemius.pl
 0.0.0.0 geo.interia.pl
 0.0.0.0 gg.adocean.pl
@@ -220,7 +204,6 @@
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 goldbach.hit.gemius.pl
 0.0.0.0 go.pl.bbelements.com
-0.0.0.0 gostats.pl
 0.0.0.0 gratkapl.adocean.pl
 0.0.0.0 gspro.adocean.pl
 0.0.0.0 gspro.hit.gemius.pl
@@ -248,7 +231,6 @@
 0.0.0.0 intactro.adocean.pl
 0.0.0.0 interia.adsearch.adkontekst.pl
 0.0.0.0 interia.hit.gemius.pl
-0.0.0.0 intrack.pl
 0.0.0.0 investoradbg.hit.gemius.pl
 0.0.0.0 investorbg.adocean.pl
 0.0.0.0 ipla.hit.gemius.pl
@@ -258,7 +240,6 @@
 0.0.0.0 keepaneyemk.adocean.pl
 0.0.0.0 kon.hit.gemius.pl
 0.0.0.0 kropka.onet.pl
-0.0.0.0 leadmy.pl
 0.0.0.0 lrytasadlt.hit.gemius.pl
 0.0.0.0 lrytaslt.adocean.pl
 0.0.0.0 ls.hit.gemius.pl
@@ -301,7 +282,6 @@
 0.0.0.0 partner-ts.groupon.pl
 0.0.0.0 partner.wapacz.pl
 0.0.0.0 partner.wapster.pl
-0.0.0.0 playlink.pl
 0.0.0.0 pl.spanel.gem.pl
 0.0.0.0 pracuj.adocean.pl
 0.0.0.0 pracuj.hit.gemius.pl
@@ -392,6 +372,5 @@
 0.0.0.0 www.adserver.home.pl
 0.0.0.0 www.mystat.pl
 0.0.0.0 wykop.hit.gemius.pl
-0.0.0.0 xed.pl
 0.0.0.0 x.interia.pl
 0.0.0.0 xstatic.nk-net.pl
