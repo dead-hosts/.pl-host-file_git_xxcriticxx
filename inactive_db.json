@@ -29,14 +29,19 @@
             "ads2.rp.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "adspiro.pl": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "c.allegrostatic.pl": "INACTIVE",
             "code.new.smartcontext.pl": "INACTIVE",
             "counter.gemius.pl": "INACTIVE",
             "gg.mob.vendimob.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE",
             "openx.xenium.pl": "INACTIVE",
             "s1.delfilt.adocean.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1564711797": {
+            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
