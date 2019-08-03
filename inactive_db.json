@@ -23,7 +23,11 @@
         "1564020124": {},
         "1564193210": {},
         "1564366040": {},
-        "1564625357": {
+        "1564625357": {},
+        "1564711797": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1564798260": {
             "ad2.pl.mediainter.net": "INACTIVE",
             "ads.clickad.com.pl": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
@@ -39,9 +43,6 @@
             "s1.delfilt.adocean.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1564711797": {
-            "show.smartcontext.pl": "INACTIVE"
         }
     }
 }
