@@ -1,43 +1,40 @@
-env:
-  global:
-    - secure: rQY2h+22n2b/kkJ5By2dWpsJg9+VxK9NfUmxPlAjYMcUvZB67/yPdD0RrWh38Zm5f9FokqquYXOfJr5k6k7W+SZABBpCnoGVanOlQHyWLaOTbi4Q+T4XuiJwXUCex+WQ7c1BKKI8xYClUw2DOn1xR3W+WxPAKzWhq0jUru4mkxWzewOyFlc4snrhh/iFpiK847I9kkCBwOmILtF3/LSMrYzf06a4eaU8hLIBhkBxlyOasnzTjUhYQygF2JUkflkcVdd7Kad/vtQhBsNZtt/lQ03XxRyB0omxTVqW6hmYnXhRoNnpYn0MJIAx4J+wakOSsik5sw43UCwsANRhzk6q50pi2vTD4efmp/YQaXwp6Clp3KSspIhB3cqAqwFBVE7GLA+Dd4yqj7uZOys31HNtcjwslMI35+sgIqeEFOSPRtdjlyG5kbZOdE9eA0ieMx8aCdB5F4H4HEdh291gmt+cyHhISn/3YDZrqoRW2doRzV9c9so+jILywkybOwPDrtnaadWwV8koCXcLWbTfOz8Rukq2xQaRVC4HCnOom6EDm8DJPbmdpIwkyhkMYmE1NihcftOAIDm+FJmsNTprlucmC/bMkVrU85xRlb5NZcZZUA49CPHRjPAtpnnhi3+wuOB/hUW+3GejmxHU6qdBPqIwci51FCiqCYgO5UglCA9Bm0k=
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: dead-hosts/.pl-host-file_git_xxcriticxx
-    - GIT_BRANCH: master
-    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
-    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
-
-dist: xenial
-sudo: required
-
-language: python
-
-python:
-  - "3.7"
-
-matrix:
-  fast_finish: true
-
-cache:
-  - pip
-
 addons:
-  apt:
-    packages:
-      - dos2unix
-
+    apt:
+        packages:
+        - dos2unix
+env:
+    global:
+    -   secure: rQY2h+22n2b/kkJ5By2dWpsJg9+VxK9NfUmxPlAjYMcUvZB67/yPdD0RrWh38Zm5f9FokqquYXOfJr5k6k7W+SZABBpCnoGVanOlQHyWLaOTbi4Q+T4XuiJwXUCex+WQ7c1BKKI8xYClUw2DOn1xR3W+WxPAKzWhq0jUru4mkxWzewOyFlc4snrhh/iFpiK847I9kkCBwOmILtF3/LSMrYzf06a4eaU8hLIBhkBxlyOasnzTjUhYQygF2JUkflkcVdd7Kad/vtQhBsNZtt/lQ03XxRyB0omxTVqW6hmYnXhRoNnpYn0MJIAx4J+wakOSsik5sw43UCwsANRhzk6q50pi2vTD4efmp/YQaXwp6Clp3KSspIhB3cqAqwFBVE7GLA+Dd4yqj7uZOys31HNtcjwslMI35+sgIqeEFOSPRtdjlyG5kbZOdE9eA0ieMx8aCdB5F4H4HEdh291gmt+cyHhISn/3YDZrqoRW2doRzV9c9so+jILywkybOwPDrtnaadWwV8koCXcLWbTfOz8Rukq2xQaRVC4HCnOom6EDm8DJPbmdpIwkyhkMYmE1NihcftOAIDm+FJmsNTprlucmC/bMkVrU85xRlb5NZcZZUA49CPHRjPAtpnnhi3+wuOB/hUW+3GejmxHU6qdBPqIwci51FCiqCYgO5UglCA9Bm0k=
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: dead-hosts/.pl-host-file_git_xxcriticxx
+    -   GIT_BRANCH: master
+    -   ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+    matrix:
+    - PYTHON_VERSION="3.7.3"
 install:
-  - pip3 install --upgrade pip
-  - pip3 install dead-hosts-launcher
-
-script:
-  - dead_hosts_launcher
-
-
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n launcher-environment python="${PYTHON_VERSION}"
+- source activate launcher-environment
+- python -VV
+- pip --version
+- pip install dead-hosts-launcher
+- rm miniconda.sh
+language: generic
 notifications:
-  email:
-    recipients:
-      - dead-hosts@funilrys.com
-    on_success: never
-    on_failure: always
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+os:
+- linux
+script:
+- dead_hosts_launcher --version
+- dead_hosts_launcher
+sudo: required
