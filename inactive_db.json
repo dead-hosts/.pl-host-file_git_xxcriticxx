@@ -78,8 +78,6 @@
         "1569811078": {},
         "1569983952": {},
         "1570070424": {
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
             "adspiro.pl": "INACTIVE",
             "bbcdn.code.new.smartcontext.pl": "INACTIVE",
@@ -95,7 +93,9 @@
             "ua.cnt.gemius.pl": "INACTIVE"
         },
         "1570246560": {
-            "ad2.pl.mediainter.net": "INACTIVE"
+            "ad2.pl.mediainter.net": "INACTIVE",
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE"
         }
     }
 }
