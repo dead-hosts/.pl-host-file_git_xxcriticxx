@@ -78,7 +78,6 @@
         "1569811078": {},
         "1569983952": {},
         "1570070424": {
-            "ad2.pl.mediainter.net": "INACTIVE",
             "ads.clickad.com.pl": "INACTIVE",
             "ads2.rp.pl": "INACTIVE",
             "adserwer.intercon.pl": "INACTIVE",
@@ -94,6 +93,9 @@
             "show.smartcontext.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1570246560": {
+            "ad2.pl.mediainter.net": "INACTIVE"
         }
     }
 }
