@@ -48,26 +48,6 @@
         }
     },
     "/home/travis/build/dead-hosts/.pl-host-file_git_xxcriticxx/domains.list": {
-        "1570070424": {
-            "adserwer.intercon.pl": "INACTIVE",
-            "adspiro.pl": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "c.allegrostatic.pl": "INACTIVE",
-            "code.new.smartcontext.pl": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "openx.xenium.pl": "INACTIVE",
-            "s1.delfilt.adocean.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "spanel.gem.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1570246560": {
-            "ad2.pl.mediainter.net": "INACTIVE",
-            "ads.clickad.com.pl": "INACTIVE",
-            "ads2.rp.pl": "INACTIVE"
-        },
         "1570659928": {
             "adseu.novem.pl": "INACTIVE"
         },
@@ -216,6 +196,52 @@
         },
         "1570670094": {
             "www.mystat.pl": "INACTIVE"
+        },
+        "1570674098": {
+            "x.interia.pl": "INACTIVE"
+        },
+        "1570674099": {
+            "xstatic.nk-net.pl": "INACTIVE"
+        },
+        "1570674100": {
+            "ad2.pl.mediainter.net": "INACTIVE"
+        },
+        "1570674101": {
+            "adspiro.pl": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1570674102": {
+            "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1570674103": {
+            "gg.mob.vendimob.pl": "INACTIVE"
+        },
+        "1570674105": {
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1570674106": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1570674107": {
+            "c.allegrostatic.pl": "INACTIVE",
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1570674108": {
+            "counter.gemius.pl": "INACTIVE",
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1570674109": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1570674110": {
+            "adserwer.intercon.pl": "INACTIVE"
+        },
+        "1570674113": {
+            "ads.clickad.com.pl": "INACTIVE",
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1570674114": {
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     }
 }
