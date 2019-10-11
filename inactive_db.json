@@ -133,9 +133,6 @@
         "1570665025": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
-        "1570665156": {
-            "adidm.idmnet.pl": "INACTIVE"
-        },
         "1570665167": {
             "adp.adview.pl": "INACTIVE",
             "adp.gazeta.pl": "INACTIVE"
@@ -242,6 +239,9 @@
         },
         "1570674114": {
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1570765803": {
+            "adidm.idmnet.pl": "INACTIVE"
         }
     }
 }
