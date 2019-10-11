@@ -63,12 +63,6 @@
         "1570659974": {
             "cookiecontainer.blox.pl": "INACTIVE"
         },
-        "1570660111": {
-            "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1570660112": {
-            "delfilv.adocean.pl": "INACTIVE"
-        },
         "1570660113": {
             "delivery.clickonometrics.pl": "INACTIVE",
             "diginet.adocean.pl": "INACTIVE"
@@ -76,32 +70,20 @@
         "1570660304": {
             "intactro.adocean.pl": "INACTIVE"
         },
-        "1570665025": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
         "1570665167": {
             "adp.adview.pl": "INACTIVE"
         },
         "1570665303": {
             "adserver.gadu-gadu.pl": "INACTIVE"
         },
-        "1570665304": {
-            "adserver.o2.pl": "INACTIVE"
-        },
         "1570669785": {
             "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1570669791": {
-            "s.di.com.pl": "INACTIVE"
         },
         "1570669824": {
             "stats.media.onet.pl": "INACTIVE"
         },
         "1570669828": {
             "tracking.novem.pl": "INACTIVE"
-        },
-        "1570670094": {
-            "www.mystat.pl": "INACTIVE"
         },
         "1570674105": {
             "new.smartcontext.pl": "INACTIVE"
@@ -224,6 +206,18 @@
         },
         "1570769650": {
             "adserver.portal.pl": "INACTIVE"
+        },
+        "1570773290": {
+            "adserver.o2.pl": "INACTIVE",
+            "delfiee.adocean.pl": "INACTIVE",
+            "delfilv.adocean.pl": "INACTIVE"
+        },
+        "1570773421": {
+            "s.di.com.pl": "INACTIVE",
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1570773552": {
+            "adidm07.idmnet.pl": "INACTIVE"
         }
     }
 }
