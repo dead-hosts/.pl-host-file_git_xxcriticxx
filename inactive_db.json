@@ -58,9 +58,6 @@
             "adv.wp.pl": "INACTIVE",
             "chip.pl.intellitxt.com": "INACTIVE"
         },
-        "1570769101": {
-            "crv.clickad.pl": "INACTIVE"
-        },
         "1570769102": {
             "delfilt.adocean.pl": "INACTIVE",
             "investorbg.adocean.pl": "INACTIVE"
@@ -91,9 +88,6 @@
         },
         "1570769239": {
             "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1570769370": {
-            "media.nk-net.pl": "INACTIVE"
         },
         "1570769371": {
             "code.new.smartcontext.pl": "INACTIVE"
@@ -144,15 +138,13 @@
             "ad2.pl.mediainter.net": "INACTIVE"
         },
         "1570769517": {
-            "rek.www.wp.pl": "INACTIVE",
-            "x.interia.pl": "INACTIVE"
+            "rek.www.wp.pl": "INACTIVE"
         },
         "1570769518": {
             "ads2.rp.pl": "INACTIVE",
             "gg.adocean.pl": "INACTIVE"
         },
         "1570769520": {
-            "emisjawidgeet.onet.pl": "INACTIVE",
             "iwa.hit.interia.pl": "INACTIVE"
         },
         "1570769521": {
@@ -182,8 +174,7 @@
             "diginet.adocean.pl": "INACTIVE"
         },
         "1570777059": {
-            "adseu.novem.pl": "INACTIVE",
-            "s1.gratkapl.adocean.pl": "INACTIVE"
+            "adseu.novem.pl": "INACTIVE"
         },
         "1570777060": {
             "delivery.clickonometrics.pl": "INACTIVE",
@@ -194,8 +185,7 @@
             "stats.media.onet.pl": "INACTIVE"
         },
         "1570777066": {
-            "adserver.gadu-gadu.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE"
+            "adserver.gadu-gadu.pl": "INACTIVE"
         },
         "1570777067": {
             "cookiecontainer.blox.pl": "INACTIVE"
@@ -204,6 +194,22 @@
             "afilv.adocean.pl": "INACTIVE",
             "new.smartcontext.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE"
+        },
+        "1570921248": {
+            "s1.gratkapl.adocean.pl": "INACTIVE",
+            "x.interia.pl": "INACTIVE"
+        },
+        "1570921249": {
+            "emisjawidgeet.onet.pl": "INACTIVE"
+        },
+        "1570921250": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1570921380": {
+            "crv.clickad.pl": "INACTIVE"
+        },
+        "1570921511": {
+            "media.nk-net.pl": "INACTIVE"
         }
     }
 }
