@@ -51,149 +51,56 @@
         "1570765803": {
             "adidm.idmnet.pl": "INACTIVE"
         },
-        "1570768970": {
-            "ads.clickad.com.pl": "INACTIVE"
-        },
-        "1570768971": {
-            "adv.wp.pl": "INACTIVE",
-            "chip.pl.intellitxt.com": "INACTIVE"
-        },
-        "1570769102": {
-            "delfilt.adocean.pl": "INACTIVE",
-            "investorbg.adocean.pl": "INACTIVE"
-        },
         "1570769233": {
-            "adsearch.wp.pl": "INACTIVE",
-            "investoradbg.hit.gemius.pl": "INACTIVE",
-            "ohtulehtee.adocean.pl": "INACTIVE"
+            "investoradbg.hit.gemius.pl": "INACTIVE"
         },
         "1570769234": {
-            "ad.filmweb.pl": "INACTIVE",
-            "gde.adocean.pl": "INACTIVE"
-        },
-        "1570769235": {
-            "adp.gazeta.pl": "INACTIVE",
-            "obozua.adocean.pl": "INACTIVE"
+            "ad.filmweb.pl": "INACTIVE"
         },
         "1570769236": {
-            "adspiro.pl": "INACTIVE",
-            "realitatero.adocean.pl": "INACTIVE"
+            "adspiro.pl": "INACTIVE"
         },
         "1570769237": {
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "ringierro.adocean.pl": "INACTIVE"
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
         "1570769238": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
-        "1570769239": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1570769371": {
-            "code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1570769372": {
-            "xstatic.nk-net.pl": "INACTIVE"
-        },
         "1570769503": {
-            "megapanel.gem.pl": "INACTIVE",
-            "rek.adtotal.pl": "INACTIVE"
-        },
-        "1570769504": {
-            "gspro.adocean.pl": "INACTIVE"
+            "megapanel.gem.pl": "INACTIVE"
         },
         "1570769506": {
             "lrytaslt.adocean.pl": "INACTIVE"
         },
         "1570769507": {
-            "15minlt.adocean.pl": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
             "im.of.pl": "INACTIVE"
         },
         "1570769508": {
             "openx.xenium.pl": "INACTIVE"
         },
-        "1570769509": {
-            "bi.adview.pl": "INACTIVE",
-            "s1.delfilt.adocean.pl": "INACTIVE"
-        },
         "1570769510": {
             "gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1570769512": {
-            "ds.onet.pl": "INACTIVE"
         },
         "1570769513": {
             "c.allegrostatic.pl": "INACTIVE"
         },
         "1570769514": {
-            "openx.cda.pl": "INACTIVE",
-            "ringieradro.hit.gemius.pl": "INACTIVE",
-            "spanel.gem.pl": "INACTIVE"
-        },
-        "1570769515": {
-            "s1.gojobsru.adocean.pl": "INACTIVE"
-        },
-        "1570769516": {
-            "ad2.pl.mediainter.net": "INACTIVE"
-        },
-        "1570769517": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1570769518": {
-            "ads2.rp.pl": "INACTIVE",
-            "gg.adocean.pl": "INACTIVE"
-        },
-        "1570769520": {
-            "iwa.hit.interia.pl": "INACTIVE"
+            "openx.cda.pl": "INACTIVE"
         },
         "1570769521": {
             "ads.businessclick.pl": "INACTIVE"
         },
-        "1570769650": {
-            "adserver.portal.pl": "INACTIVE"
-        },
-        "1570773290": {
-            "adserver.o2.pl": "INACTIVE",
-            "delfiee.adocean.pl": "INACTIVE",
-            "delfilv.adocean.pl": "INACTIVE"
-        },
-        "1570773421": {
-            "s.di.com.pl": "INACTIVE",
-            "www.mystat.pl": "INACTIVE"
-        },
-        "1570773552": {
-            "adidm07.idmnet.pl": "INACTIVE"
-        },
         "1570777057": {
-            "adp.adview.pl": "INACTIVE",
-            "adserwer.intercon.pl": "INACTIVE"
-        },
-        "1570777058": {
-            "boksy.dir.onet.pl": "INACTIVE",
-            "diginet.adocean.pl": "INACTIVE"
-        },
-        "1570777059": {
-            "adseu.novem.pl": "INACTIVE"
-        },
-        "1570777060": {
-            "delivery.clickonometrics.pl": "INACTIVE",
-            "tracking.novem.pl": "INACTIVE"
+            "adp.adview.pl": "INACTIVE"
         },
         "1570777065": {
-            "ads.o2.pl": "INACTIVE",
             "stats.media.onet.pl": "INACTIVE"
         },
         "1570777066": {
             "adserver.gadu-gadu.pl": "INACTIVE"
         },
-        "1570777067": {
-            "cookiecontainer.blox.pl": "INACTIVE"
-        },
         "1570777069": {
-            "afilv.adocean.pl": "INACTIVE",
-            "new.smartcontext.pl": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE"
+            "new.smartcontext.pl": "INACTIVE"
         },
         "1570921248": {
             "s1.gratkapl.adocean.pl": "INACTIVE",
@@ -210,6 +117,105 @@
         },
         "1570921511": {
             "media.nk-net.pl": "INACTIVE"
+        },
+        "1570924938": {
+            "gde.adocean.pl": "INACTIVE"
+        },
+        "1570925068": {
+            "ads.o2.pl": "INACTIVE",
+            "adserver.o2.pl": "INACTIVE",
+            "chip.pl.intellitxt.com": "INACTIVE",
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1570925069": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1570925070": {
+            "adserwer.intercon.pl": "INACTIVE",
+            "xstatic.nk-net.pl": "INACTIVE"
+        },
+        "1570925073": {
+            "ads.clickad.com.pl": "INACTIVE"
+        },
+        "1570925074": {
+            "boksy.dir.onet.pl": "INACTIVE",
+            "ds.onet.pl": "INACTIVE",
+            "ringieradro.hit.gemius.pl": "INACTIVE"
+        },
+        "1570925075": {
+            "cookiecontainer.blox.pl": "INACTIVE",
+            "realitatero.adocean.pl": "INACTIVE"
+        },
+        "1570925076": {
+            "counter.gemius.pl": "INACTIVE"
+        },
+        "1570925077": {
+            "ohtulehtee.adocean.pl": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1570925078": {
+            "ads2.rp.pl": "INACTIVE"
+        },
+        "1570925079": {
+            "code.new.smartcontext.pl": "INACTIVE",
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1570925080": {
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1570925081": {
+            "bi.adview.pl": "INACTIVE",
+            "s.di.com.pl": "INACTIVE"
+        },
+        "1570925082": {
+            "delfilt.adocean.pl": "INACTIVE",
+            "rek.adtotal.pl": "INACTIVE"
+        },
+        "1570925083": {
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1570925084": {
+            "adseu.novem.pl": "INACTIVE",
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1570925086": {
+            "ad2.pl.mediainter.net": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE"
+        },
+        "1570925087": {
+            "afilv.adocean.pl": "INACTIVE",
+            "delfiee.adocean.pl": "INACTIVE",
+            "rek.www.wp.pl": "INACTIVE"
+        },
+        "1570925088": {
+            "adp.gazeta.pl": "INACTIVE",
+            "obozua.adocean.pl": "INACTIVE",
+            "ringierro.adocean.pl": "INACTIVE"
+        },
+        "1570925089": {
+            "15minlt.adocean.pl": "INACTIVE",
+            "gg.adocean.pl": "INACTIVE",
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1570925090": {
+            "delivery.clickonometrics.pl": "INACTIVE",
+            "iwa.hit.interia.pl": "INACTIVE"
+        },
+        "1570925221": {
+            "delfilv.adocean.pl": "INACTIVE",
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1570925222": {
+            "diginet.adocean.pl": "INACTIVE"
+        },
+        "1570925352": {
+            "adsearch.wp.pl": "INACTIVE"
+        },
+        "1570925483": {
+            "adserver.portal.pl": "INACTIVE"
+        },
+        "1570925614": {
+            "adidm07.idmnet.pl": "INACTIVE"
         }
     }
 }
