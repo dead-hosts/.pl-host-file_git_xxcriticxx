@@ -55,9 +55,6 @@
         "1570921249": {
             "emisjawidgeet.onet.pl": "INACTIVE"
         },
-        "1570921250": {
-            "intactro.adocean.pl": "INACTIVE"
-        },
         "1570921380": {
             "crv.clickad.pl": "INACTIVE"
         },
@@ -110,8 +107,7 @@
             "ua.cnt.gemius.pl": "INACTIVE"
         },
         "1570925081": {
-            "bi.adview.pl": "INACTIVE",
-            "s.di.com.pl": "INACTIVE"
+            "bi.adview.pl": "INACTIVE"
         },
         "1570925082": {
             "delfilt.adocean.pl": "INACTIVE",
@@ -121,7 +117,6 @@
             "adv.wp.pl": "INACTIVE"
         },
         "1570925084": {
-            "adseu.novem.pl": "INACTIVE",
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
         "1570925086": {
@@ -153,9 +148,6 @@
         },
         "1570925222": {
             "diginet.adocean.pl": "INACTIVE"
-        },
-        "1570925352": {
-            "adsearch.wp.pl": "INACTIVE"
         },
         "1570925483": {
             "adserver.portal.pl": "INACTIVE"
@@ -197,7 +189,6 @@
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
         "1570933430": {
-            "gg.mob.vendimob.pl": "INACTIVE",
             "investoradbg.hit.gemius.pl": "INACTIVE"
         },
         "1570933431": {
@@ -206,6 +197,19 @@
         },
         "1570933432": {
             "c.allegrostatic.pl": "INACTIVE"
+        },
+        "1571024656": {
+            "adseu.novem.pl": "INACTIVE"
+        },
+        "1571024657": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "s.di.com.pl": "INACTIVE"
+        },
+        "1571024658": {
+            "intactro.adocean.pl": "INACTIVE"
+        },
+        "1571024789": {
+            "adsearch.wp.pl": "INACTIVE"
         }
     }
 }
