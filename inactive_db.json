@@ -52,9 +52,6 @@
             "gg.mob.vendimob.pl": "INACTIVE",
             "s.di.com.pl": "INACTIVE"
         },
-        "1571024789": {
-            "adsearch.wp.pl": "INACTIVE"
-        },
         "1571028234": {
             "show.smartcontext.pl": "INACTIVE"
         },
@@ -216,6 +213,9 @@
         },
         "1571140293": {
             "megapanel.gem.pl": "INACTIVE"
+        },
+        "1571144828": {
+            "adsearch.wp.pl": "INACTIVE"
         }
     }
 }
