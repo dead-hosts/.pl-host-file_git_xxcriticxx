@@ -69,22 +69,17 @@
             "adserwer.intercon.pl": "INACTIVE",
             "diginet.adocean.pl": "INACTIVE"
         },
-        "1571139617": {
-            "xstatic.nk-net.pl": "INACTIVE"
-        },
         "1571139618": {
             "investoradbg.hit.gemius.pl": "INACTIVE"
         },
         "1571139622": {
-            "ad.filmweb.pl": "INACTIVE",
-            "ads.o2.pl": "INACTIVE"
+            "ad.filmweb.pl": "INACTIVE"
         },
         "1571139623": {
             "stats.media.onet.pl": "INACTIVE"
         },
         "1571139624": {
-            "15minlt.adocean.pl": "INACTIVE",
-            "spanel.gem.pl": "INACTIVE"
+            "15minlt.adocean.pl": "INACTIVE"
         },
         "1571139625": {
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
@@ -98,7 +93,6 @@
             "s1.gratkapl.adocean.pl": "INACTIVE"
         },
         "1571139628": {
-            "openx.xenium.pl": "INACTIVE",
             "x.interia.pl": "INACTIVE"
         },
         "1571139629": {
@@ -126,12 +120,10 @@
         },
         "1571139766": {
             "afilv.adocean.pl": "INACTIVE",
-            "c.allegrostatic.pl": "INACTIVE",
-            "investorbg.adocean.pl": "INACTIVE"
+            "c.allegrostatic.pl": "INACTIVE"
         },
         "1571139767": {
-            "counter.gemius.pl": "INACTIVE",
-            "tracking.novem.pl": "INACTIVE"
+            "counter.gemius.pl": "INACTIVE"
         },
         "1571139898": {
             "crv.clickad.pl": "INACTIVE"
@@ -176,9 +168,6 @@
         "1571148696": {
             "show.smartcontext.pl": "INACTIVE"
         },
-        "1571148825": {
-            "adserver.portal.pl": "INACTIVE"
-        },
         "1571148826": {
             "rek.www.wp.pl": "INACTIVE"
         },
@@ -201,13 +190,34 @@
             "s.di.com.pl": "INACTIVE"
         },
         "1571148832": {
-            "gg.adocean.pl": "INACTIVE",
-            "gg.mob.vendimob.pl": "INACTIVE"
+            "gg.adocean.pl": "INACTIVE"
         },
         "1571148833": {
             "chip.pl.intellitxt.com": "INACTIVE",
             "ds.onet.pl": "INACTIVE",
             "openx.cda.pl": "INACTIVE"
+        },
+        "1571267182": {
+            "xstatic.nk-net.pl": "INACTIVE"
+        },
+        "1571267183": {
+            "openx.xenium.pl": "INACTIVE"
+        },
+        "1571267185": {
+            "spanel.gem.pl": "INACTIVE"
+        },
+        "1571267186": {
+            "tracking.novem.pl": "INACTIVE"
+        },
+        "1571267317": {
+            "adserver.portal.pl": "INACTIVE"
+        },
+        "1571267318": {
+            "gg.mob.vendimob.pl": "INACTIVE",
+            "investorbg.adocean.pl": "INACTIVE"
+        },
+        "1571267448": {
+            "ads.o2.pl": "INACTIVE"
         }
     }
 }
