@@ -54,50 +54,17 @@
         "1571139614": {
             "ua.cnt.gemius.pl": "INACTIVE"
         },
-        "1571139615": {
-            "code.new.smartcontext.pl": "INACTIVE"
-        },
-        "1571139626": {
-            "adv.wp.pl": "INACTIVE"
-        },
         "1571139627": {
-            "new.smartcontext.pl": "INACTIVE",
             "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1571139628": {
-            "x.interia.pl": "INACTIVE"
-        },
-        "1571139632": {
-            "cookiecontainer.blox.pl": "INACTIVE"
         },
         "1571139766": {
             "afilv.adocean.pl": "INACTIVE"
         },
-        "1571139899": {
-            "boksy.dir.onet.pl": "INACTIVE",
-            "ohtulehtee.adocean.pl": "INACTIVE"
-        },
-        "1571139900": {
-            "ads2.rp.pl": "INACTIVE"
-        },
-        "1571139901": {
-            "delfilv.adocean.pl": "INACTIVE"
-        },
         "1571140033": {
             "s1.gojobsru.adocean.pl": "INACTIVE"
         },
-        "1571140163": {
-            "bi.adview.pl": "INACTIVE"
-        },
-        "1571140293": {
-            "megapanel.gem.pl": "INACTIVE"
-        },
         "1571148827": {
             "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1571148829": {
-            "adp.adview.pl": "INACTIVE",
-            "im.of.pl": "INACTIVE"
         },
         "1571148830": {
             "s1.delfilt.adocean.pl": "INACTIVE"
@@ -219,6 +186,35 @@
         },
         "1571272154": {
             "adidm.idmnet.pl": "INACTIVE"
+        },
+        "1571276242": {
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1571276243": {
+            "bi.adview.pl": "INACTIVE",
+            "new.smartcontext.pl": "INACTIVE"
+        },
+        "1571276244": {
+            "boksy.dir.onet.pl": "INACTIVE",
+            "delfilv.adocean.pl": "INACTIVE",
+            "x.interia.pl": "INACTIVE"
+        },
+        "1571276245": {
+            "ads2.rp.pl": "INACTIVE",
+            "ohtulehtee.adocean.pl": "INACTIVE"
+        },
+        "1571276246": {
+            "adp.adview.pl": "INACTIVE"
+        },
+        "1571276377": {
+            "megapanel.gem.pl": "INACTIVE"
+        },
+        "1571276378": {
+            "cookiecontainer.blox.pl": "INACTIVE",
+            "im.of.pl": "INACTIVE"
+        },
+        "1571276379": {
+            "code.new.smartcontext.pl": "INACTIVE"
         }
     }
 }
