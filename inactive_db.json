@@ -48,30 +48,6 @@
         }
     },
     "/home/travis/build/dead-hosts/.pl-host-file_git_xxcriticxx/domains.list": {
-        "1571139612": {
-            "adserver.o2.pl": "INACTIVE"
-        },
-        "1571139614": {
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1571139627": {
-            "s1.gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1571139766": {
-            "afilv.adocean.pl": "INACTIVE"
-        },
-        "1571140033": {
-            "s1.gojobsru.adocean.pl": "INACTIVE"
-        },
-        "1571148827": {
-            "delfiee.adocean.pl": "INACTIVE"
-        },
-        "1571148830": {
-            "s1.delfilt.adocean.pl": "INACTIVE"
-        },
-        "1571148833": {
-            "openx.cda.pl": "INACTIVE"
-        },
         "1571267182": {
             "xstatic.nk-net.pl": "INACTIVE"
         },
@@ -215,6 +191,27 @@
         },
         "1571276379": {
             "code.new.smartcontext.pl": "INACTIVE"
+        },
+        "1571280450": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1571280451": {
+            "afilv.adocean.pl": "INACTIVE",
+            "s1.gratkapl.adocean.pl": "INACTIVE"
+        },
+        "1571280452": {
+            "s1.delfilt.adocean.pl": "INACTIVE"
+        },
+        "1571280453": {
+            "adserver.o2.pl": "INACTIVE",
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1571280454": {
+            "delfiee.adocean.pl": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1571280455": {
+            "openx.cda.pl": "INACTIVE"
         }
     }
 }
