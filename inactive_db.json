@@ -48,205 +48,202 @@
         }
     },
     "/home/travis/build/dead-hosts/.pl-host-file_git_xxcriticxx/domains.list": {
-        "1572862751": {
+        "1573009078": {
             "15minlt.adocean.pl": "INACTIVE"
         },
-        "1572862758": {
+        "1573009085": {
             "ad2.pl.mediainter.net": "INACTIVE"
         },
-        "1572862766": {
+        "1573009094": {
             "ad.filmweb.pl": "INACTIVE"
         },
-        "1572862777": {
+        "1573009104": {
             "adidm07.idmnet.pl": "INACTIVE"
         },
-        "1572862783": {
+        "1573009110": {
             "adidm.idmnet.pl": "INACTIVE"
         },
-        "1572862795": {
-            "adp.adview.pl": "INACTIVE",
+        "1573009120": {
+            "adp.adview.pl": "INACTIVE"
+        },
+        "1573009121": {
             "adp.gazeta.pl": "INACTIVE"
         },
-        "1572862799": {
-            "ads.businessclick.pl": "INACTIVE",
+        "1573009123": {
             "ads2.rp.pl": "INACTIVE"
         },
-        "1572862802": {
+        "1573009124": {
+            "ads.businessclick.pl": "INACTIVE"
+        },
+        "1573009126": {
             "ads.clickad.com.pl": "INACTIVE"
         },
-        "1572862809": {
+        "1573009134": {
             "adsearch.wp.pl": "INACTIVE"
         },
-        "1572862811": {
+        "1573009135": {
             "adserver.gadu-gadu.pl": "INACTIVE"
         },
-        "1572862812": {
+        "1573009136": {
             "adserver.o2.pl": "INACTIVE"
         },
-        "1572862819": {
+        "1573009143": {
             "adserver.portal.pl": "INACTIVE"
         },
-        "1572862821": {
-            "adserwer.intercon.pl": "INACTIVE"
-        },
-        "1572862822": {
+        "1573009145": {
+            "adserwer.intercon.pl": "INACTIVE",
             "adseu.novem.pl": "INACTIVE"
         },
-        "1572862830": {
+        "1573009153": {
             "ads.o2.pl": "INACTIVE"
         },
-        "1572862832": {
+        "1573009155": {
             "adspiro.pl": "INACTIVE"
         },
-        "1572862841": {
+        "1573009164": {
             "adv.wp.pl": "INACTIVE"
         },
-        "1572862843": {
+        "1573009166": {
             "afilv.adocean.pl": "INACTIVE"
         },
-        "1572862857": {
+        "1573009181": {
             "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
-        "1572862862": {
+        "1573009185": {
             "bi.adview.pl": "INACTIVE"
         },
-        "1572862864": {
+        "1573009187": {
             "boksy.dir.onet.pl": "INACTIVE"
         },
-        "1572862867": {
-            "c.allegrostatic.pl": "INACTIVE"
-        },
-        "1572862868": {
+        "1573009190": {
+            "c.allegrostatic.pl": "INACTIVE",
             "chip.pl.intellitxt.com": "INACTIVE"
         },
-        "1572862870": {
+        "1573009192": {
             "code.new.smartcontext.pl": "INACTIVE"
         },
-        "1572862872": {
+        "1573009194": {
             "cookiecontainer.blox.pl": "INACTIVE"
         },
-        "1572862873": {
+        "1573009195": {
             "counter.gemius.pl": "INACTIVE"
         },
-        "1572862880": {
+        "1573009202": {
             "crv.clickad.pl": "INACTIVE"
         },
-        "1572862885": {
+        "1573009207": {
             "delfiee.adocean.pl": "INACTIVE",
             "delfilt.adocean.pl": "INACTIVE",
             "delfilv.adocean.pl": "INACTIVE"
         },
-        "1572862886": {
-            "delivery.clickonometrics.pl": "INACTIVE"
-        },
-        "1572862887": {
+        "1573009208": {
+            "delivery.clickonometrics.pl": "INACTIVE",
             "diginet.adocean.pl": "INACTIVE"
         },
-        "1572862891": {
+        "1573009212": {
             "ds.onet.pl": "INACTIVE"
         },
-        "1572862896": {
+        "1573009217": {
             "emisjawidgeet.onet.pl": "INACTIVE"
         },
-        "1572862918": {
+        "1573009236": {
             "gde.adocean.pl": "INACTIVE"
         },
-        "1572862934": {
+        "1573009252": {
             "gg.adocean.pl": "INACTIVE"
         },
-        "1572862935": {
+        "1573009253": {
             "gg.mob.vendimob.pl": "INACTIVE"
         },
-        "1572862942": {
-            "gratkapl.adocean.pl": "INACTIVE"
-        },
-        "1572862943": {
+        "1573009260": {
+            "gratkapl.adocean.pl": "INACTIVE",
             "gspro.adocean.pl": "INACTIVE"
         },
-        "1572862954": {
+        "1573009271": {
             "im.of.pl": "INACTIVE"
         },
-        "1572862955": {
+        "1573009273": {
             "intactro.adocean.pl": "INACTIVE"
         },
-        "1572862957": {
+        "1573009274": {
             "investoradbg.hit.gemius.pl": "INACTIVE",
             "investorbg.adocean.pl": "INACTIVE"
         },
-        "1572862959": {
+        "1573009275": {
             "iwa.hit.interia.pl": "INACTIVE"
         },
-        "1572862963": {
+        "1573009279": {
             "lrytaslt.adocean.pl": "INACTIVE"
         },
-        "1572862972": {
+        "1573009288": {
             "media.nk-net.pl": "INACTIVE"
         },
-        "1572862979": {
+        "1573009295": {
             "megapanel.gem.pl": "INACTIVE"
         },
-        "1572862985": {
+        "1573009300": {
             "new.smartcontext.pl": "INACTIVE"
         },
-        "1572862987": {
+        "1573009302": {
             "obozua.adocean.pl": "INACTIVE"
         },
-        "1572862988": {
+        "1573009303": {
             "ohtulehtee.adocean.pl": "INACTIVE"
         },
-        "1572862990": {
+        "1573009305": {
             "openx.cda.pl": "INACTIVE"
         },
-        "1572862991": {
+        "1573009306": {
             "openx.xenium.pl": "INACTIVE"
         },
-        "1572863003": {
+        "1573009313": {
             "realitatero.adocean.pl": "INACTIVE"
         },
-        "1572863004": {
+        "1573009314": {
             "rek.adtotal.pl": "INACTIVE"
         },
-        "1572863009": {
+        "1573009321": {
+            "reklamy.sfd.pl": "INACTIVE"
+        },
+        "1573009322": {
             "rek.www.wp.pl": "INACTIVE"
         },
-        "1572863010": {
-            "ringieradro.hit.gemius.pl": "INACTIVE"
-        },
-        "1572863011": {
+        "1573009323": {
+            "ringieradro.hit.gemius.pl": "INACTIVE",
             "ringierro.adocean.pl": "INACTIVE"
         },
-        "1572863018": {
+        "1573009330": {
             "s1.delfilt.adocean.pl": "INACTIVE"
         },
-        "1572863020": {
-            "s1.gojobsru.adocean.pl": "INACTIVE",
+        "1573009331": {
+            "s1.gojobsru.adocean.pl": "INACTIVE"
+        },
+        "1573009332": {
             "s1.gratkapl.adocean.pl": "INACTIVE"
         },
-        "1572863027": {
+        "1573009338": {
             "s.di.com.pl": "INACTIVE"
         },
-        "1572863030": {
+        "1573009340": {
             "show.smartcontext.pl": "INACTIVE"
         },
-        "1572863033": {
+        "1573009344": {
             "spanel.gem.pl": "INACTIVE"
         },
-        "1572863039": {
+        "1573009349": {
             "stats.media.onet.pl": "INACTIVE"
         },
-        "1572863043": {
+        "1573009353": {
             "tracking.novem.pl": "INACTIVE"
         },
-        "1572863047": {
+        "1573009357": {
             "ua.cnt.gemius.pl": "INACTIVE"
         },
-        "1572863064": {
+        "1573009373": {
             "www.mystat.pl": "INACTIVE"
         },
-        "1572863065": {
-            "x.interia.pl": "INACTIVE"
-        },
-        "1572863066": {
+        "1573009375": {
+            "x.interia.pl": "INACTIVE",
             "xstatic.nk-net.pl": "INACTIVE"
         }
     }
