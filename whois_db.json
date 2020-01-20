@@ -67,7 +67,7 @@
     "blogvertising.pl": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "contextad.pl": {
         "epoch": 1588550400.0,
