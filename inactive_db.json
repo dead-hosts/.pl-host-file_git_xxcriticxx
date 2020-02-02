@@ -68,6 +68,10 @@
             "show.smartcontext.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1580681891": {
+            "advice.hit.gemius.pl": "INACTIVE",
+            "spir.hit.gemius.pl": "INACTIVE"
         }
     }
 }
