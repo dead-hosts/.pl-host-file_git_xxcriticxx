@@ -68,6 +68,11 @@
             "show.smartcontext.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1581072982": {
+            "advice.hit.gemius.pl": "INACTIVE",
+            "seznam.hit.gemius.pl": "INACTIVE",
+            "si.hit.gemius.pl": "INACTIVE"
         }
     }
 }
