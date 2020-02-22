@@ -71,6 +71,10 @@
             "openx.xenium.pl": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
             "spanel.gem.pl": "INACTIVE"
+        },
+        "1582410083": {
+            "tvn.hit.gemius.pl": "INACTIVE",
+            "ua.hit.gemius.pl": "INACTIVE"
         }
     }
 }
