@@ -2,14 +2,14 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-05-02T13:04:19.000804",
-    "finish_timestamp": 1588424659.000804,
-    "last_download_datetime": "2020-05-02T13:00:02.399398",
-    "last_download_timestamp": 1588424402.399398,
-    "latest_part_finish_datetime": "2020-05-02T13:04:19.000804",
-    "latest_part_finish_timestamp": 1588424659.000804,
-    "latest_part_start_datetime": "2020-05-02T13:00:02.408480",
-    "latest_part_start_timestamp": 1588424402.40848,
+    "finish_datetime": "2020-05-03T22:23:19.964491",
+    "finish_timestamp": 1588544599.964491,
+    "last_download_datetime": "2020-05-03T22:19:02.500959",
+    "last_download_timestamp": 1588544342.500959,
+    "latest_part_finish_datetime": "2020-05-03T22:23:19.964491",
+    "latest_part_finish_timestamp": 1588544599.964491,
+    "latest_part_start_datetime": "2020-05-03T22:19:02.520241",
+    "latest_part_start_timestamp": 1588544342.520241,
     "live_update": true,
     "name": ".pl-host-file_git_xxcriticxx",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@xxcriticxx"
     ],
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
-    "start_datetime": "2020-05-02T13:00:02.404215",
-    "start_timestamp": 1588424402.404215
+    "start_datetime": "2020-05-03T22:19:02.509420",
+    "start_timestamp": 1588544342.50942
 }
