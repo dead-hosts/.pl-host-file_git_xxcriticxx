@@ -32,7 +32,7 @@
     "adtext.pl": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtotal.pl": {
         "epoch": 1627516800.0,
