@@ -156,6 +156,13 @@
             "last_retested_at_iso": "2020-09-07T05:47:17.574449",
             "status": "INACTIVE"
         },
+        "adtext.pl": {
+            "included_at_epoch": 1600321761.183966,
+            "included_at_iso": "2020-09-17T05:49:21.183966",
+            "last_retested_at_epoch": 1600321761.183966,
+            "last_retested_at_iso": "2020-09-17T05:49:21.183966",
+            "status": "INACTIVE"
+        },
         "afi.adocean.pl": {
             "included_at_epoch": 1599457637.583876,
             "included_at_iso": "2020-09-07T05:47:17.583876",
