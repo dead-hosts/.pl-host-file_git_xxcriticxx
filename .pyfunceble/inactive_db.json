@@ -121,6 +121,13 @@
             "last_retested_at_iso": "2020-09-07T05:47:17.554364",
             "status": "INACTIVE"
         },
+        "adidm.idmnet.pl": {
+            "included_at_epoch": 1600667506.132178,
+            "included_at_iso": "2020-09-21T05:51:46.132178",
+            "last_retested_at_epoch": 1600667506.132178,
+            "last_retested_at_iso": "2020-09-21T05:51:46.132178",
+            "status": "INACTIVE"
+        },
         "ads.clickad.com.pl": {
             "included_at_epoch": 1599457637.562965,
             "included_at_iso": "2020-09-07T05:47:17.562965",
