@@ -46,8 +46,9 @@
         "state": "future"
     },
     "adview.pl": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "afilo.pl": {
