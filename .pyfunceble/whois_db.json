@@ -100,7 +100,8 @@
     "intrack.pl": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "leadmy.pl": {
         "epoch": 1618185600.0,
