@@ -696,10 +696,10 @@
             "status": "ACTIVE"
         },
         "adtext.pl": {
-            "included_at_epoch": 1605162233.57982,
-            "included_at_iso": "2020-11-12T06:23:53.579820",
-            "last_retested_at_epoch": 1607410160.136646,
-            "last_retested_at_iso": "2020-12-08T06:49:20.136646",
+            "included_at_epoch": 1607583287.343526,
+            "included_at_iso": "2020-12-10T06:54:47.343526",
+            "last_retested_at_epoch": 1607583287.343526,
+            "last_retested_at_iso": "2020-12-10T06:54:47.343526",
             "status": "ACTIVE"
         },
         "adtotal.pl": {
