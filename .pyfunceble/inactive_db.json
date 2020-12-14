@@ -339,10 +339,10 @@
             "status": "ACTIVE"
         },
         "adidm.idmnet.pl": {
-            "included_at_epoch": 1605507189.848186,
-            "included_at_iso": "2020-11-16T06:13:09.848186",
-            "last_retested_at_epoch": 1607761299.581896,
-            "last_retested_at_iso": "2020-12-12T08:21:39.581896",
+            "included_at_epoch": 1607927494.855196,
+            "included_at_iso": "2020-12-14T06:31:34.855196",
+            "last_retested_at_epoch": 1607927494.855196,
+            "last_retested_at_iso": "2020-12-14T06:31:34.855196",
             "status": "ACTIVE"
         },
         "adidm07.idmnet.pl": {
