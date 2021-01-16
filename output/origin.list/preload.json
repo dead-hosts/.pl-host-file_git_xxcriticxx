@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/.pl-host-file_git_xxcriticxx/.pl-host-file_git_xxcriticxx/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "215d568123674b9c0f974048d2fa3f00118702e34629d9ba40de9344",
+    "line_number": 449,
+    "output_dir": "/home/runner/work/.pl-host-file_git_xxcriticxx/.pl-host-file_git_xxcriticxx/output/origin.list",
+    "previous_hash": "215d568123674b9c0f974048d2fa3f00118702e34629d9ba40de9344",
+    "rel_source": "origin.list",
+    "session_id": "c808d1ca396b34ba1589aaf3",
+    "source": "/home/runner/work/.pl-host-file_git_xxcriticxx/.pl-host-file_git_xxcriticxx/origin.list",
+    "subject": "/home/runner/work/.pl-host-file_git_xxcriticxx/.pl-host-file_git_xxcriticxx/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
