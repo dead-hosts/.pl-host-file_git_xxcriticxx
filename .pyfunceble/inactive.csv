@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-05-12 05:05:28.007151
-banery.acr.pl,AVAILABILITY,origin.list,2021-05-12 08:56:57.875301
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-12 17:09:01.602895
 lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-05-12 17:09:13.616658
 s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-05-12 17:09:21.366634
@@ -29,3 +27,5 @@ spanel.gem.pl,AVAILABILITY,origin.list,2021-05-12 21:04:53.412807
 c.allegrostatic.pl,AVAILABILITY,origin.list,2021-05-12 21:05:01.910700
 gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-05-12 21:05:09.069113
 openx.cda.pl,AVAILABILITY,origin.list,2021-05-13 01:08:08.451696
+digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-05-13 09:04:10.700757
+banery.acr.pl,AVAILABILITY,origin.list,2021-05-13 09:04:28.096744
