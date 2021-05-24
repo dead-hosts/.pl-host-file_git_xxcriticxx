@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-23 05:15:50.115490
-openx.xenium.pl,AVAILABILITY,origin.list,2021-05-23 05:15:57.847692
-panel.adtify.pl,AVAILABILITY,origin.list,2021-05-23 05:16:06.906947
-spanel.gem.pl,AVAILABILITY,origin.list,2021-05-23 05:16:15.035483
-c.allegrostatic.pl,AVAILABILITY,origin.list,2021-05-23 05:16:24.409874
-gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-05-23 05:16:32.262864
-openx.cda.pl,AVAILABILITY,origin.list,2021-05-23 05:16:38.447916
 digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-05-23 21:01:30.640439
 banery.acr.pl,AVAILABILITY,origin.list,2021-05-23 21:01:53.086246
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-23 21:02:05.564543
@@ -30,3 +23,10 @@ ads.clickad.com.pl,AVAILABILITY,origin.list,2021-05-24 05:16:09.801515
 adspiro.pl,AVAILABILITY,origin.list,2021-05-24 05:16:16.435540
 afi.adocean.pl,AVAILABILITY,origin.list,2021-05-24 05:16:23.591077
 new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-24 05:16:30.903559
+unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-24 09:01:58.650895
+openx.xenium.pl,AVAILABILITY,origin.list,2021-05-24 09:02:05.827036
+panel.adtify.pl,AVAILABILITY,origin.list,2021-05-24 09:02:12.257484
+spanel.gem.pl,AVAILABILITY,origin.list,2021-05-24 09:02:19.413533
+c.allegrostatic.pl,AVAILABILITY,origin.list,2021-05-24 09:02:27.465787
+gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-05-24 09:02:34.617847
+openx.cda.pl,AVAILABILITY,origin.list,2021-05-24 09:02:40.804005
