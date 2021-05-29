@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-28 21:22:44.893321
-openx.xenium.pl,AVAILABILITY,origin.list,2021-05-28 21:22:51.884212
-panel.adtify.pl,AVAILABILITY,origin.list,2021-05-28 21:22:57.836465
-spanel.gem.pl,AVAILABILITY,origin.list,2021-05-28 21:23:05.208124
 c.allegrostatic.pl,AVAILABILITY,origin.list,2021-05-28 21:23:13.230584
 gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-05-28 21:23:20.339535
 openx.cda.pl,AVAILABILITY,origin.list,2021-05-28 21:23:26.323852
@@ -35,3 +31,8 @@ new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:34:22.430970
 1.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:11.900214
 2.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:19.175289
 5.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:25.742917
+googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:24:53.852659
+unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-29 21:29:39.707956
+openx.xenium.pl,AVAILABILITY,origin.list,2021-05-29 21:29:47.406174
+panel.adtify.pl,AVAILABILITY,origin.list,2021-05-29 21:29:55.267085
+spanel.gem.pl,AVAILABILITY,origin.list,2021-05-29 21:30:07.053161
