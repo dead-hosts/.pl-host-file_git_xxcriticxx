@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:18.102913
-bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:25.691792
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:33.738275
-ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-05-29 17:33:42.243872
-ads2.rp.pl,AVAILABILITY,origin.list,2021-05-29 17:33:49.792851
-ads.clickad.com.pl,AVAILABILITY,origin.list,2021-05-29 17:34:01.279548
-adspiro.pl,AVAILABILITY,origin.list,2021-05-29 17:34:08.235056
-afi.adocean.pl,AVAILABILITY,origin.list,2021-05-29 17:34:15.636954
-new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:34:22.430970
-1.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:11.900214
-2.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:19.175289
-5.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:04:25.742917
 googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 21:24:53.852659
 unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-29 21:29:39.707956
 openx.xenium.pl,AVAILABILITY,origin.list,2021-05-29 21:29:47.406174
@@ -36,3 +24,15 @@ counter.gemius.pl,AVAILABILITY,origin.list,2021-05-30 13:25:05.688134
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-05-30 13:25:17.105329
 3.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 17:28:57.618101
 4.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 17:29:04.125419
+code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:41.678116
+bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:49.267255
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:57.127521
+ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-05-30 21:25:06.177572
+ads2.rp.pl,AVAILABILITY,origin.list,2021-05-30 21:25:13.741130
+ads.clickad.com.pl,AVAILABILITY,origin.list,2021-05-30 21:25:25.866980
+adspiro.pl,AVAILABILITY,origin.list,2021-05-30 21:25:33.013762
+afi.adocean.pl,AVAILABILITY,origin.list,2021-05-30 21:25:40.320816
+new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:25:47.849572
+1.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:25:54.695760
+2.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:26:01.128941
+5.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:26:07.867960
