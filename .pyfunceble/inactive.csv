@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-3.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 17:08:23.095255
-4.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-29 17:08:30.543798
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:18.102913
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:25.691792
 show.smartcontext.pl,AVAILABILITY,origin.list,2021-05-29 17:33:33.738275
@@ -36,3 +34,5 @@ s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-05-30 13:24:45.410267
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-05-30 13:24:57.892268
 counter.gemius.pl,AVAILABILITY,origin.list,2021-05-30 13:25:05.688134
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-05-30 13:25:17.105329
+3.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 17:28:57.618101
+4.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 17:29:04.125419
