@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:41.678116
-bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:49.267255
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:24:57.127521
-ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-05-30 21:25:06.177572
-ads2.rp.pl,AVAILABILITY,origin.list,2021-05-30 21:25:13.741130
-ads.clickad.com.pl,AVAILABILITY,origin.list,2021-05-30 21:25:25.866980
-adspiro.pl,AVAILABILITY,origin.list,2021-05-30 21:25:33.013762
-afi.adocean.pl,AVAILABILITY,origin.list,2021-05-30 21:25:40.320816
-new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-30 21:25:47.849572
-1.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:25:54.695760
-2.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:26:01.128941
-5.googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-30 21:26:07.867960
 googlenews.xorg.pl,AVAILABILITY,origin.list,2021-05-31 01:41:47.746052
 unblock.onaudience.com,AVAILABILITY,origin.list,2021-05-31 01:41:54.281551
 openx.xenium.pl,AVAILABILITY,origin.list,2021-05-31 01:42:02.954072
@@ -34,3 +22,12 @@ s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-05-31 13:31:58.007028
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-05-31 13:32:05.249434
 counter.gemius.pl,AVAILABILITY,origin.list,2021-05-31 13:32:16.566241
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-05-31 13:32:26.111841
+code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-31 21:53:23.159248
+bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-31 21:53:31.777291
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-05-31 21:53:41.193598
+ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-05-31 21:53:51.050901
+ads2.rp.pl,AVAILABILITY,origin.list,2021-05-31 21:53:59.515736
+ads.clickad.com.pl,AVAILABILITY,origin.list,2021-05-31 21:54:16.153326
+adspiro.pl,AVAILABILITY,origin.list,2021-05-31 21:54:23.728627
+afi.adocean.pl,AVAILABILITY,origin.list,2021-05-31 21:54:35.576450
+new.smartcontext.pl,AVAILABILITY,origin.list,2021-05-31 21:54:43.525174
