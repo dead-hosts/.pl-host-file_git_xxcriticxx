@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-05-31 09:52:57.593148
-banery.acr.pl,AVAILABILITY,origin.list,2021-05-31 09:53:11.518616
-ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-05-31 09:53:25.900241
-lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-05-31 09:53:33.646569
 s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-05-31 13:31:05.337942
 gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-05-31 13:31:12.678615
 obozua.adocean.pl,AVAILABILITY,origin.list,2021-05-31 13:31:21.941631
@@ -30,3 +26,7 @@ spanel.gem.pl,AVAILABILITY,origin.list,2021-06-01 02:04:19.564903
 c.allegrostatic.pl,AVAILABILITY,origin.list,2021-06-01 06:50:24.320083
 gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-06-01 06:50:32.240655
 openx.cda.pl,AVAILABILITY,origin.list,2021-06-01 06:50:38.654415
+digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-06-01 10:04:15.415943
+banery.acr.pl,AVAILABILITY,origin.list,2021-06-01 10:04:38.566432
+ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-06-01 10:04:51.889066
+lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-06-01 10:05:04.350007
