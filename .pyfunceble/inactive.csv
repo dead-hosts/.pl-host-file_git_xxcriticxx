@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c.allegrostatic.pl,AVAILABILITY,origin.list,2021-06-01 06:50:24.320083
-gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-06-01 06:50:32.240655
-openx.cda.pl,AVAILABILITY,origin.list,2021-06-01 06:50:38.654415
 digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-06-01 10:04:15.415943
 banery.acr.pl,AVAILABILITY,origin.list,2021-06-01 10:04:38.566432
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-06-01 10:04:51.889066
@@ -31,3 +28,6 @@ unblock.onaudience.com,AVAILABILITY,origin.list,2021-06-02 06:53:40.653779
 openx.xenium.pl,AVAILABILITY,origin.list,2021-06-02 06:53:48.864523
 panel.adtify.pl,AVAILABILITY,origin.list,2021-06-02 06:53:56.651094
 spanel.gem.pl,AVAILABILITY,origin.list,2021-06-02 06:54:04.885945
+c.allegrostatic.pl,AVAILABILITY,origin.list,2021-06-02 10:02:10.265195
+gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-06-02 10:02:17.219865
+openx.cda.pl,AVAILABILITY,origin.list,2021-06-02 10:02:23.593545
