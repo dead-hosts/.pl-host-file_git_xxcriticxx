@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:24:59.885080
-gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:07.986230
-obozua.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:19.774996
-s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:27.816868
-gspro.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:35.753925
-intactro.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:44.865268
-investorbg.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:25:55.647820
-s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-02 18:26:03.447804
-ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-02 18:26:11.457587
-counter.gemius.pl,AVAILABILITY,origin.list,2021-06-02 18:26:22.846107
-adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-02 18:26:33.865419
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-03 01:48:59.501394
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-03 01:49:08.079567
 show.smartcontext.pl,AVAILABILITY,origin.list,2021-06-03 01:49:17.714003
@@ -30,3 +19,14 @@ digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-06-03 17:50:09.676267
 banery.acr.pl,AVAILABILITY,origin.list,2021-06-03 17:50:23.398321
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-06-03 17:50:35.766930
 lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-06-03 17:50:47.460501
+s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:56:42.645152
+gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:56:49.871000
+obozua.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:56:57.279211
+s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:57:04.548319
+gspro.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:57:11.569899
+intactro.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:57:18.587583
+investorbg.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:57:25.913879
+s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-03 21:57:33.061086
+ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-03 21:57:40.265790
+counter.gemius.pl,AVAILABILITY,origin.list,2021-06-03 21:57:47.123270
+adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-03 21:57:56.206266
