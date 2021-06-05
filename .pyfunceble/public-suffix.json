@@ -4929,6 +4929,7 @@
         "edu.ms",
         "gov.ms",
         "lab.ms",
+        "minisite.ms",
         "net.ms",
         "org.ms"
     ],
@@ -8182,7 +8183,6 @@
         "cc.vi.us",
         "cc.vt.us",
         "cc.wa.us",
-        "cc.wi.us",
         "cc.wv.us",
         "cc.wy.us",
         "chtr.k12.ma.us",
@@ -8528,6 +8528,7 @@
     ],
     "zw": [
         "ac.zw",
+        "cc.wi.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
