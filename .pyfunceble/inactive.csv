@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-10 01:15:42.497919
-bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-10 01:15:50.434849
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-06-10 01:15:58.314889
-ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-06-10 01:16:08.776689
-ads2.rp.pl,AVAILABILITY,origin.list,2021-06-10 01:16:16.676267
-ads.clickad.com.pl,AVAILABILITY,origin.list,2021-06-10 01:16:28.739869
-adspiro.pl,AVAILABILITY,origin.list,2021-06-10 01:16:36.414144
-afi.adocean.pl,AVAILABILITY,origin.list,2021-06-10 01:16:43.678971
-new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-10 01:16:51.045590
-unblock.onaudience.com,AVAILABILITY,origin.list,2021-06-10 01:16:57.307673
-openx.xenium.pl,AVAILABILITY,origin.list,2021-06-10 01:17:04.794010
-panel.adtify.pl,AVAILABILITY,origin.list,2021-06-10 01:17:11.506983
-spanel.gem.pl,AVAILABILITY,origin.list,2021-06-10 01:17:18.578794
 c.allegrostatic.pl,AVAILABILITY,origin.list,2021-06-10 05:15:24.400480
 gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-06-10 05:15:32.182468
 openx.cda.pl,AVAILABILITY,origin.list,2021-06-10 05:15:39.132112
@@ -30,3 +17,16 @@ s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-10 17:13:23.119478
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-10 17:13:35.619276
 counter.gemius.pl,AVAILABILITY,origin.list,2021-06-10 17:13:43.688094
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-10 17:13:56.108102
+code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-11 05:04:34.859101
+bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-11 05:04:43.364420
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-06-11 05:04:53.244497
+ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-06-11 05:05:04.518407
+ads2.rp.pl,AVAILABILITY,origin.list,2021-06-11 05:05:12.799402
+ads.clickad.com.pl,AVAILABILITY,origin.list,2021-06-11 05:05:29.324151
+adspiro.pl,AVAILABILITY,origin.list,2021-06-11 05:05:36.890865
+afi.adocean.pl,AVAILABILITY,origin.list,2021-06-11 05:05:50.956732
+new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-11 05:05:59.181690
+unblock.onaudience.com,AVAILABILITY,origin.list,2021-06-11 05:06:05.885344
+openx.xenium.pl,AVAILABILITY,origin.list,2021-06-11 05:06:14.224219
+panel.adtify.pl,AVAILABILITY,origin.list,2021-06-11 05:06:21.352349
+spanel.gem.pl,AVAILABILITY,origin.list,2021-06-11 05:06:29.577411
