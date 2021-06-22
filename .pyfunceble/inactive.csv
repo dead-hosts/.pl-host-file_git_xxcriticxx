@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:27:19.770177
-banery.acr.pl,AVAILABILITY,origin.list,2021-06-21 01:27:28.923380
-ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:27:36.985897
-lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:27:44.773390
-s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:27:57.513816
-gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:05.295014
-obozua.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:18.859429
-s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:26.661440
-gspro.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:34.525257
-intactro.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:42.196204
-investorbg.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:50.086434
-s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-21 01:28:57.874871
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-21 05:18:15.390819
 counter.gemius.pl,AVAILABILITY,origin.list,2021-06-21 05:18:23.105138
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-21 05:18:32.673409
@@ -31,3 +19,15 @@ spanel.gem.pl,AVAILABILITY,origin.list,2021-06-21 17:26:02.868481
 c.allegrostatic.pl,AVAILABILITY,origin.list,2021-06-21 17:26:11.777909
 gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-06-21 17:26:19.112115
 openx.cda.pl,AVAILABILITY,origin.list,2021-06-21 17:26:25.782773
+digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:14:50.749749
+banery.acr.pl,AVAILABILITY,origin.list,2021-06-22 05:15:15.550620
+ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:15:30.791255
+lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:15:39.796889
+s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:15:49.125987
+gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:16:02.334411
+obozua.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:16:11.263152
+s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:16:20.574771
+gspro.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:16:34.056134
+intactro.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:16:47.131929
+investorbg.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:17:00.111987
+s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-22 05:17:18.478401
