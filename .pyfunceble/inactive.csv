@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-22 09:15:12.689897
-counter.gemius.pl,AVAILABILITY,origin.list,2021-06-22 09:15:20.464298
-adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-22 09:15:30.468018
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-22 21:10:40.248752
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-06-22 21:10:48.347849
 show.smartcontext.pl,AVAILABILITY,origin.list,2021-06-22 21:10:56.521542
@@ -30,3 +27,6 @@ gspro.adocean.pl,AVAILABILITY,origin.list,2021-06-23 09:13:53.125467
 intactro.adocean.pl,AVAILABILITY,origin.list,2021-06-23 09:14:00.567943
 investorbg.adocean.pl,AVAILABILITY,origin.list,2021-06-23 09:14:08.215439
 s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-06-23 09:14:16.007995
+ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-06-23 13:13:48.718248
+counter.gemius.pl,AVAILABILITY,origin.list,2021-06-23 13:14:01.113745
+adserwer.intercon.pl,AVAILABILITY,origin.list,2021-06-23 13:14:13.352159
