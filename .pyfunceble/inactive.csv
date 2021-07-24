@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-07-23 17:22:05.955950
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-07-23 17:22:15.879988
 ads2.rp.pl,AVAILABILITY,origin.list,2021-07-23 17:22:23.467010
 ads.clickad.com.pl,AVAILABILITY,origin.list,2021-07-23 17:22:36.364857
@@ -35,3 +34,4 @@ s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-07-24 13:22:25.376215
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-07-24 17:24:08.576279
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-07-24 17:24:19.181903
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-07-24 17:24:28.010973
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-07-24 21:16:04.461800
