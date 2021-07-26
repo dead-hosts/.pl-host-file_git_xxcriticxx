@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-obozua.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:33:51.314644
-s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:34:08.571723
-gspro.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:34:25.214911
-intactro.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:34:36.918592
-investorbg.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:34:45.304377
-s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-07-25 01:34:53.901754
-ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-07-25 01:35:07.488980
-counter.gemius.pl,AVAILABILITY,origin.list,2021-07-25 01:35:20.783350
-adserwer.intercon.pl,AVAILABILITY,origin.list,2021-07-25 01:35:34.072121
 s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-07-25 17:19:53.374784
 s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-07-25 17:20:09.810703
 s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-07-25 17:20:18.240329
@@ -35,3 +26,12 @@ ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-07-26 01:23:46.135368
 lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-07-26 01:23:54.713216
 s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:13:39.268588
 gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:13:46.887127
+obozua.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:15:14.764433
+s1.gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:15:23.593102
+gspro.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:15:36.083382
+intactro.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:15:44.572989
+investorbg.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:15:56.792452
+s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-07-26 05:16:11.463563
+ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-07-26 05:16:24.193388
+counter.gemius.pl,AVAILABILITY,origin.list,2021-07-26 05:16:32.858792
+adserwer.intercon.pl,AVAILABILITY,origin.list,2021-07-26 05:16:46.378593
