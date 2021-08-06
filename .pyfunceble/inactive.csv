@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-c.allegrostatic.pl,AVAILABILITY,origin.list,2021-08-05 09:16:32.158841
-gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-08-05 09:16:39.430770
-openx.cda.pl,AVAILABILITY,origin.list,2021-08-05 09:16:45.760962
-digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:16:53.119322
-banery.acr.pl,AVAILABILITY,origin.list,2021-08-05 09:17:01.351469
-ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:17:08.851376
-lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:17:16.430985
 s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:17:23.917551
 gratkapl.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:17:31.587061
 obozua.adocean.pl,AVAILABILITY,origin.list,2021-08-05 09:17:39.491175
@@ -35,3 +28,10 @@ unblock.onaudience.com,AVAILABILITY,origin.list,2021-08-06 09:19:21.791064
 openx.xenium.pl,AVAILABILITY,origin.list,2021-08-06 09:19:30.106624
 panel.adtify.pl,AVAILABILITY,origin.list,2021-08-06 09:19:39.206213
 spanel.gem.pl,AVAILABILITY,origin.list,2021-08-06 09:19:47.711165
+c.allegrostatic.pl,AVAILABILITY,origin.list,2021-08-06 13:18:01.268748
+gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-08-06 13:18:08.974907
+openx.cda.pl,AVAILABILITY,origin.list,2021-08-06 13:18:15.356322
+digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-08-06 13:18:23.282566
+banery.acr.pl,AVAILABILITY,origin.list,2021-08-06 13:18:31.858919
+ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-08-06 13:18:39.734591
+lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-08-06 13:18:47.538833
