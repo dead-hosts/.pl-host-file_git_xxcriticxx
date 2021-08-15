@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-counter.gemius.pl,AVAILABILITY,origin.list,2021-08-14 17:14:09.108285
-adserwer.intercon.pl,AVAILABILITY,origin.list,2021-08-14 17:15:15.078901
 sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-15 01:24:38.556292
 s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-08-15 09:18:51.236281
 s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-08-15 09:18:59.472841
@@ -36,3 +34,5 @@ intactro.adocean.pl,AVAILABILITY,origin.list,2021-08-15 13:12:54.136575
 investorbg.adocean.pl,AVAILABILITY,origin.list,2021-08-15 13:13:01.708239
 s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-08-15 13:13:09.425891
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-08-15 13:13:17.023418
+counter.gemius.pl,AVAILABILITY,origin.list,2021-08-15 21:15:23.944098
+adserwer.intercon.pl,AVAILABILITY,origin.list,2021-08-15 21:15:37.201230
