@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-13 21:15:31.841181
 s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-08-14 05:20:27.144642
 s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-08-14 05:20:39.845200
 s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-08-14 05:20:48.479841
@@ -36,3 +35,4 @@ s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-08-14 09:18:17.920422
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-08-14 09:18:26.669187
 counter.gemius.pl,AVAILABILITY,origin.list,2021-08-14 17:14:09.108285
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-08-14 17:15:15.078901
+sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-15 01:24:38.556292
