@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:12:55.477172
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:13:03.058350
-s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:13:10.586666
-s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:13:18.247504
-s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:13:26.965233
-s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-08-27 13:13:34.320653
-code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-08-27 13:13:43.047586
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-08-28 01:19:02.676742
 show.smartcontext.pl,AVAILABILITY,origin.list,2021-08-28 01:23:33.128602
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-08-28 01:23:44.993345
@@ -36,3 +29,10 @@ s1.delfilt.adocean.pl,AVAILABILITY,origin.list,2021-08-28 01:28:46.731448
 ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-08-28 01:28:58.737719
 counter.gemius.pl,AVAILABILITY,origin.list,2021-08-28 09:16:21.156169
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-08-28 09:16:31.144591
+sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:17:39.722915
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:17:48.221967
+s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:17:56.681577
+s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:18:05.170058
+s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:18:13.807800
+s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-08-28 13:18:22.466049
+code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-08-28 13:18:33.193275
