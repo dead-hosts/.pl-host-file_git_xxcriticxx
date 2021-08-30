@@ -7938,8 +7938,7 @@
         "tel.tr",
         "tsk.tr",
         "tv.tr",
-        "web.tr",
-        "web.za"
+        "web.tr"
     ],
     "trade": [
         "ybo.trade"
@@ -8171,6 +8170,7 @@
         "cc.mi.us",
         "cc.mn.us",
         "cc.mo.us",
+        "cc.ms.us",
         "cc.mt.us",
         "cc.nc.us",
         "cc.nd.us",
@@ -8455,7 +8455,6 @@
     ],
     "vu": [
         "blog.vu",
-        "cc.ms.us",
         "cn.vu",
         "com.vu",
         "dev.vu",
