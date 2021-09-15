@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adspiro.pl,AVAILABILITY,origin.list,2021-09-14 01:25:55.747230
-afi.adocean.pl,AVAILABILITY,origin.list,2021-09-14 01:26:03.140853
-new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-14 01:26:11.564914
-unblock.onaudience.com,AVAILABILITY,origin.list,2021-09-14 01:26:17.977905
-openx.xenium.pl,AVAILABILITY,origin.list,2021-09-14 01:26:25.407523
-panel.adtify.pl,AVAILABILITY,origin.list,2021-09-14 01:26:32.147039
-spanel.gem.pl,AVAILABILITY,origin.list,2021-09-14 01:26:40.630283
-c.allegrostatic.pl,AVAILABILITY,origin.list,2021-09-14 01:26:49.639533
-gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-09-14 01:26:56.828109
-openx.cda.pl,AVAILABILITY,origin.list,2021-09-14 01:27:03.164986
-digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-09-14 01:27:10.825950
-banery.acr.pl,AVAILABILITY,origin.list,2021-09-14 01:27:18.355984
 ro1ro.adocean.pl,AVAILABILITY,origin.list,2021-09-14 09:12:10.790188
 lrytaslt.adocean.pl,AVAILABILITY,origin.list,2021-09-14 09:12:23.266253
 s1.gojobsru.adocean.pl,AVAILABILITY,origin.list,2021-09-14 09:13:12.342314
@@ -36,3 +24,15 @@ show.smartcontext.pl,AVAILABILITY,origin.list,2021-09-15 01:18:42.168871
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-09-15 01:18:51.560686
 ads2.rp.pl,AVAILABILITY,origin.list,2021-09-15 01:18:59.204562
 ads.clickad.com.pl,AVAILABILITY,origin.list,2021-09-15 01:19:11.553271
+adspiro.pl,AVAILABILITY,origin.list,2021-09-15 05:11:36.100923
+afi.adocean.pl,AVAILABILITY,origin.list,2021-09-15 05:11:43.534622
+new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-15 05:11:52.271619
+unblock.onaudience.com,AVAILABILITY,origin.list,2021-09-15 05:11:58.825142
+openx.xenium.pl,AVAILABILITY,origin.list,2021-09-15 05:12:06.197729
+panel.adtify.pl,AVAILABILITY,origin.list,2021-09-15 05:12:13.310905
+spanel.gem.pl,AVAILABILITY,origin.list,2021-09-15 05:12:20.629993
+c.allegrostatic.pl,AVAILABILITY,origin.list,2021-09-15 05:12:29.304925
+gg.mob.vendimob.pl,AVAILABILITY,origin.list,2021-09-15 05:12:36.985856
+openx.cda.pl,AVAILABILITY,origin.list,2021-09-15 05:12:43.368924
+digital4ro.adocean.pl,AVAILABILITY,origin.list,2021-09-15 05:12:50.957121
+banery.acr.pl,AVAILABILITY,origin.list,2021-09-15 05:12:59.737039
