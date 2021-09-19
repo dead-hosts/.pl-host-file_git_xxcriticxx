@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adspiro.pl,AVAILABILITY,origin.list,2021-09-18 17:13:52.358958
-afi.adocean.pl,AVAILABILITY,origin.list,2021-09-18 17:14:10.763128
-new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-18 17:17:02.926915
 unblock.onaudience.com,AVAILABILITY,origin.list,2021-09-18 17:17:09.517609
 openx.xenium.pl,AVAILABILITY,origin.list,2021-09-18 17:17:17.103446
 panel.adtify.pl,AVAILABILITY,origin.list,2021-09-18 17:17:24.570449
@@ -36,3 +33,6 @@ show.smartcontext.pl,AVAILABILITY,origin.list,2021-09-19 13:15:03.256176
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-09-19 13:15:15.358399
 ads2.rp.pl,AVAILABILITY,origin.list,2021-09-19 13:16:01.224023
 ads.clickad.com.pl,AVAILABILITY,origin.list,2021-09-19 13:16:10.627711
+adspiro.pl,AVAILABILITY,origin.list,2021-09-19 21:08:17.589580
+afi.adocean.pl,AVAILABILITY,origin.list,2021-09-19 21:08:33.577764
+new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-19 21:08:43.527852
