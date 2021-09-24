@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-22 21:12:42.260747
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-09-22 21:12:52.560892
-ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-09-22 21:13:05.001719
-ads2.rp.pl,AVAILABILITY,origin.list,2021-09-22 21:13:14.118285
-ads.clickad.com.pl,AVAILABILITY,origin.list,2021-09-22 21:13:31.751094
 adspiro.pl,AVAILABILITY,origin.list,2021-09-23 05:12:21.833077
 afi.adocean.pl,AVAILABILITY,origin.list,2021-09-23 05:12:29.579595
 new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-23 05:12:38.242351
@@ -36,3 +31,8 @@ s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:32.859842
 s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:44.671457
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:58.218377
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-23 17:19:08.974460
+bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-24 01:28:25.904479
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-09-24 01:28:35.938399
+ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-09-24 01:28:50.598794
+ads2.rp.pl,AVAILABILITY,origin.list,2021-09-24 01:28:59.431920
+ads.clickad.com.pl,AVAILABILITY,origin.list,2021-09-24 01:29:17.231431
