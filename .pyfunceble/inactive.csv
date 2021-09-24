@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:01.158176
-s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:15.586064
-s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:32.859842
 s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:44.671457
 s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-09-23 17:18:58.218377
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-09-23 17:19:08.974460
@@ -36,3 +33,6 @@ ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-09-24 09:16:57.267437
 counter.gemius.pl,AVAILABILITY,origin.list,2021-09-24 09:17:10.509689
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-09-24 09:17:21.621152
 sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-09-24 09:17:34.623398
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-09-24 21:09:15.084730
+s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-09-24 21:09:33.137133
+s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-09-24 21:09:50.285399
