@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-10-04 05:47:52.595464
-s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-10-04 05:47:54.006236
-s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-10-04 05:47:55.452744
-s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-10-04 05:47:56.889773
-s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-10-04 05:47:58.341675
-code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-10-04 05:48:00.400268
-bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-10-04 05:48:02.100289
-show.smartcontext.pl,AVAILABILITY,origin.list,2021-10-04 05:48:04.143554
-ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-10-04 05:48:06.270160
-ads2.rp.pl,AVAILABILITY,origin.list,2021-10-04 05:48:07.774799
-ads.clickad.com.pl,AVAILABILITY,origin.list,2021-10-04 05:48:11.589749
 adspiro.pl,AVAILABILITY,origin.list,2021-10-05 05:45:08.085631
 afi.adocean.pl,AVAILABILITY,origin.list,2021-10-05 05:45:09.061450
 new.smartcontext.pl,AVAILABILITY,origin.list,2021-10-05 05:45:10.414378
@@ -36,3 +25,14 @@ ua.cnt.gemius.pl,AVAILABILITY,origin.list,2021-10-05 05:45:31.462968
 counter.gemius.pl,AVAILABILITY,origin.list,2021-10-05 05:45:32.466660
 adserwer.intercon.pl,AVAILABILITY,origin.list,2021-10-05 05:45:33.774935
 sportalbg.adocean.pl,AVAILABILITY,origin.list,2021-10-05 05:45:34.667166
+s1.sk.adocean.pl,AVAILABILITY,origin.list,2021-10-06 05:22:37.123456
+s1.cz.adocean.pl,AVAILABILITY,origin.list,2021-10-06 05:22:37.988058
+s1.edipresse.adocean.pl,AVAILABILITY,origin.list,2021-10-06 05:22:38.840179
+s1.myao.adocean.pl,AVAILABILITY,origin.list,2021-10-06 05:22:39.706467
+s1.pracuj.adocean.pl,AVAILABILITY,origin.list,2021-10-06 05:22:40.661706
+code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-10-06 05:22:41.760819
+bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2021-10-06 05:22:42.845138
+show.smartcontext.pl,AVAILABILITY,origin.list,2021-10-06 05:22:44.138102
+ad2.pl.mediainter.net,AVAILABILITY,origin.list,2021-10-06 05:22:45.481542
+ads2.rp.pl,AVAILABILITY,origin.list,2021-10-06 05:22:46.457364
+ads.clickad.com.pl,AVAILABILITY,origin.list,2021-10-06 05:22:48.604569
