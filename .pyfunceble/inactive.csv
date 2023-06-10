@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mystat.pl,AVAILABILITY,origin.list,2023-06-08 05:12:57.339737
 ad.adocean.pl,AVAILABILITY,origin.list,2023-06-09 05:11:28.784520
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2023-06-09 05:13:54.358222
 new.smartcontext.pl,AVAILABILITY,origin.list,2023-06-09 05:13:54.534376
@@ -59,3 +58,4 @@ realitatero.adocean.pl,AVAILABILITY,origin.list,2023-06-09 05:14:15.216525
 cookiecontainer.blox.pl,AVAILABILITY,origin.list,2023-06-09 05:14:16.816202
 intactro.adocean.pl,AVAILABILITY,origin.list,2023-06-09 05:14:17.260330
 delfilv.adocean.pl,AVAILABILITY,origin.list,2023-06-09 05:14:18.467916
+www.mystat.pl,AVAILABILITY,origin.list,2023-06-10 05:13:40.748709
