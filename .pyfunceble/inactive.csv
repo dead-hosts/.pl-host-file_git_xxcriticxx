@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.mystat.pl,AVAILABILITY,origin.list,2023-07-06 05:15:04.327367
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2023-07-07 05:14:23.991864
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2023-07-07 05:14:24.008296
 openx.cda.pl,AVAILABILITY,origin.list,2023-07-07 05:14:24.034721
@@ -59,3 +58,4 @@ adserwer.intercon.pl,AVAILABILITY,origin.list,2023-07-07 05:14:44.911037
 cookiecontainer.blox.pl,AVAILABILITY,origin.list,2023-07-07 05:14:46.288849
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2023-07-07 05:14:46.912429
 www.adserver.home.pl,AVAILABILITY,origin.list,2023-07-07 05:14:48.248597
+www.mystat.pl,AVAILABILITY,origin.list,2023-07-08 05:13:40.690381
