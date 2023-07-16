@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-07-14 05:13:26.525292
-s3.hit.stat.pl,AVAILABILITY,origin.list,2023-07-14 05:13:28.185163
-s1.hit.stat.pl,AVAILABILITY,origin.list,2023-07-14 05:13:28.413333
-s4.hit.stat.pl,AVAILABILITY,origin.list,2023-07-14 05:13:30.495040
-s2.hit.stat.pl,AVAILABILITY,origin.list,2023-07-14 05:13:32.130443
-www.mystat.pl,AVAILABILITY,origin.list,2023-07-14 05:13:49.577981
 code.new.smartcontext.pl,AVAILABILITY,origin.list,2023-07-15 05:13:49.252029
 new.smartcontext.pl,AVAILABILITY,origin.list,2023-07-15 05:13:49.470507
 openx.cda.pl,AVAILABILITY,origin.list,2023-07-15 05:13:49.508435
@@ -67,3 +61,9 @@ adserwer.intercon.pl,AVAILABILITY,origin.list,2023-07-15 05:14:12.033153
 cookiecontainer.blox.pl,AVAILABILITY,origin.list,2023-07-15 05:14:12.536033
 ad2.pl.mediainter.net,AVAILABILITY,origin.list,2023-07-15 05:14:13.384292
 www.adserver.home.pl,AVAILABILITY,origin.list,2023-07-15 05:14:14.450582
+iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-07-16 05:12:50.691820
+s1.hit.stat.pl,AVAILABILITY,origin.list,2023-07-16 05:12:54.266893
+s3.hit.stat.pl,AVAILABILITY,origin.list,2023-07-16 05:12:54.419070
+s4.hit.stat.pl,AVAILABILITY,origin.list,2023-07-16 05:12:54.611123
+s2.hit.stat.pl,AVAILABILITY,origin.list,2023-07-16 05:12:55.125747
+www.mystat.pl,AVAILABILITY,origin.list,2023-07-16 05:13:13.967906
