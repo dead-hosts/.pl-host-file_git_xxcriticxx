@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-08-07 05:13:17.783299
-s1.hit.stat.pl,AVAILABILITY,origin.list,2023-08-07 05:13:20.582623
-s3.hit.stat.pl,AVAILABILITY,origin.list,2023-08-07 05:13:20.762056
-s2.hit.stat.pl,AVAILABILITY,origin.list,2023-08-07 05:13:20.946657
-s4.hit.stat.pl,AVAILABILITY,origin.list,2023-08-07 05:13:21.688821
 new.smartcontext.pl,AVAILABILITY,origin.list,2023-08-08 05:11:37.931265
 bbcdn.code.new.smartcontext.pl,AVAILABILITY,origin.list,2023-08-08 05:11:38.119048
 openx.cda.pl,AVAILABILITY,origin.list,2023-08-08 05:11:38.344719
@@ -66,3 +61,9 @@ sisco.hit.stat.pl,AVAILABILITY,origin.list,2023-08-08 05:11:51.062883
 onet.hit.stat.pl,AVAILABILITY,origin.list,2023-08-08 05:11:51.324037
 home.hit.stat.pl,AVAILABILITY,origin.list,2023-08-08 05:11:52.191369
 www.adserver.home.pl,AVAILABILITY,origin.list,2023-08-08 05:11:51.820982
+chip.pl.intellitxt.com,AVAILABILITY,origin.list,2023-08-09 05:11:42.994451
+iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-08-09 05:11:45.887564
+s1.hit.stat.pl,AVAILABILITY,origin.list,2023-08-09 05:11:45.961451
+s2.hit.stat.pl,AVAILABILITY,origin.list,2023-08-09 05:11:48.732429
+s4.hit.stat.pl,AVAILABILITY,origin.list,2023-08-09 05:11:49.002169
+s3.hit.stat.pl,AVAILABILITY,origin.list,2023-08-09 05:11:50.677289
