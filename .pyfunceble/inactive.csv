@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-chip.pl.intellitxt.com,AVAILABILITY,origin.list,2023-11-01 05:12:33.201063
-iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-11-01 05:12:33.660496
-s3.hit.stat.pl,AVAILABILITY,origin.list,2023-11-01 05:12:34.170297
-s4.hit.stat.pl,AVAILABILITY,origin.list,2023-11-01 05:12:34.714593
-s1.hit.stat.pl,AVAILABILITY,origin.list,2023-11-01 05:12:36.742174
-s2.hit.stat.pl,AVAILABILITY,origin.list,2023-11-01 05:12:39.224212
-www.mystat.pl,AVAILABILITY,origin.list,2023-11-01 05:12:55.305034
 ads2.rp.pl,AVAILABILITY,origin.list,2023-11-02 05:12:52.766836
 openx.cda.pl,AVAILABILITY,origin.list,2023-11-02 05:12:52.854837
 unblock.onaudience.com,AVAILABILITY,origin.list,2023-11-02 05:12:53.043341
@@ -68,3 +61,10 @@ onet.hit.stat.pl,AVAILABILITY,origin.list,2023-11-02 05:13:14.387273
 home.hit.stat.pl,AVAILABILITY,origin.list,2023-11-02 05:13:14.530262
 sisco.hit.stat.pl,AVAILABILITY,origin.list,2023-11-02 05:13:14.936337
 www.adserver.home.pl,AVAILABILITY,origin.list,2023-11-02 05:13:15.128669
+chip.pl.intellitxt.com,AVAILABILITY,origin.list,2023-11-03 05:12:14.235353
+iwa.hit.interia.pl,AVAILABILITY,origin.list,2023-11-03 05:12:14.404295
+s3.hit.stat.pl,AVAILABILITY,origin.list,2023-11-03 05:12:17.411334
+s4.hit.stat.pl,AVAILABILITY,origin.list,2023-11-03 05:12:17.572825
+s2.hit.stat.pl,AVAILABILITY,origin.list,2023-11-03 05:12:19.772748
+s1.hit.stat.pl,AVAILABILITY,origin.list,2023-11-03 05:12:19.881526
+www.mystat.pl,AVAILABILITY,origin.list,2023-11-03 05:12:35.841350
