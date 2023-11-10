@@ -16,6 +16,11 @@
     "ping": [
         "@xxcriticxx"
     ],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "-pl-host-file_git_xxcriticxx",
     "raw_link": "https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt",
     "repo": "dead-hosts/.pl-host-file_git_xxcriticxx",
     "start_datetime": "2020-12-28T06:37:16.470543",
